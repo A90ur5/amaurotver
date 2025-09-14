@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>RO 卡片收藏</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    #filterBox { margin-bottom: 20px; padding: 8px; width: 300px; }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 150px);
+      gap: 15px;
+    }
+    .card {
+      text-align: center;
+      border: 1px solid #ccc;
+      padding: 8px;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+    .card img {
+      width: 100px;
+      height: 140px;
+      filter: grayscale(100%);
+      transition: filter 0.3s;
+    }
+    .card.owned img {
+      filter: none;
+    }
+    .card-name {
+      margin-top: 8px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Amaurot 卡片收藏</h1>
+  <input id="filterBox" type="text" placeholder="輸入名稱過濾...">
+  <div id="cardContainer" class="card-grid"></div>
+
+  <script>
+    async function loadCards() {
+      const response = await fetch("card_db.json");
+      const data = await response.json();
+
+      // 從 URL 拿到已擁有的卡片 ID
+      const urlParams = new URLSearchParams(window.location.search);
+      const owned = (urlParams.get("cards") || "").split(",");
+
+      const container = document.getElementById("cardContainer");
+
+      for (const id in data) {
+        const card = data[id];
+        const div = document.createElement("div");
+        div.className = "card";
+        if (owned.includes(id)) div.classList.add("owned");
+
+        div.innerHTML = `
+          <img src="images/${id}.png" alt="${card.Name}" onerror="this.onerror=null;this.src='images/404.png';">
+          <div class="card-name">${card.Name} #${id} (${card.AegisName})</div>
+        `;
+        container.appendChild(div);
+      }
+
+      // 過濾功能
+      const filterBox = document.getElementById("filterBox");
+      filterBox.addEventListener("input", () => {
+        const keyword = filterBox.value.toLowerCase();
+        for (const cardDiv of container.children) {
+          const text = cardDiv.innerText.toLowerCase();
+          cardDiv.style.display = text.includes(keyword) ? "" : "none";
+        }
+      });
+    }
+
+    loadCards();
+  </script>
+</body>
+</html>
