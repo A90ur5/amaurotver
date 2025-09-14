@@ -24,12 +24,17 @@
       filter: grayscale(100%);
       transition: filter 0.3s;
     }
-    .card.owned img {
-      filter: none;
-    }
     .card-name {
       margin-top: 8px;
       font-size: 14px;
+      color: gray;
+    }
+    .card.owned img {
+      filter: none;
+    }
+    .card.owned .card-name {
+      color: black;
+      font-weight: bold;
     }
   </style>
 </head>
