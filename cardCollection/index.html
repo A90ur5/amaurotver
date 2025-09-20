@@ -2,10 +2,13 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <title>RO 卡片收藏</title>
+  <title>Amaurot 卡片收藏</title>
   <style>
     body { font-family: sans-serif; padding: 20px; }
-    #filterBox { margin-bottom: 20px; padding: 8px; width: 300px; }
+    #filterBox { margin-bottom: 10px; padding: 8px; width: 300px; }
+    #controls { margin-bottom: 10px; }
+    #controls button { margin-right: 5px; padding: 6px 10px; }
+    #stats { margin-bottom: 20px; font-weight: bold; }
     .card-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, 150px);
@@ -41,6 +44,12 @@
 <body>
   <h1>Amaurot 卡片收藏</h1>
   <input id="filterBox" type="text" placeholder="輸入名稱過濾...">
+  <div id="controls">
+    <button id="showOwned">只顯示已取得</button>
+    <button id="showUnowned">只顯示未取得</button>
+    <button id="showAll">顯示全部</button>
+  </div>
+  <div id="stats"></div>
   <div id="cardContainer" class="card-grid"></div>
 
   <script>
@@ -50,10 +59,13 @@
 
       // 從 URL 拿到已擁有的卡片 ID
       const urlParams = new URLSearchParams(window.location.search);
-      const owned = (urlParams.get("cards") || "").split("x");
+      const owned = (urlParams.get("cards") || "").split("x").filter(Boolean);
 
       const container = document.getElementById("cardContainer");
+      const statsDiv = document.getElementById("stats");
 
+      // 建立卡片 DOM
+      const cards = [];
       for (const id in data) {
         const card = data[id];
         const div = document.createElement("div");
@@ -61,21 +73,51 @@
         if (owned.includes(id)) div.classList.add("owned");
 
         div.innerHTML = `
-          <img src="images/${id}.png" alt="${card.Name}" onerror="this.onerror=null;this.src='images/404.png';">
+          <a href="https://ro.dvg.cn/itemsinfo.php?id=${id}" target="_blank">
+            <img src="images/${id}.png" alt="${card.Name}" onerror="this.onerror=null;this.src='images/404.png';">
+          </a>
           <div class="card-name">${card.Name} #${id} (${card.AegisName})</div>
         `;
         container.appendChild(div);
+        cards.push(div);
+      }
+
+      function updateStats() {
+        const total = cards.length;
+        const ownedCount = cards.filter(c => c.classList.contains("owned")).length;
+        const unownedCount = total - ownedCount;
+        statsDiv.textContent = `已取得: ${ownedCount} | 未取得: ${unownedCount} | 總數: ${total}`;
+      }
+
+      function showCards(filter) {
+        for (const cardDiv of cards) {
+          if (filter === "owned") {
+            cardDiv.style.display = cardDiv.classList.contains("owned") ? "" : "none";
+          } else if (filter === "unowned") {
+            cardDiv.style.display = cardDiv.classList.contains("owned") ? "none" : "";
+          } else {
+            cardDiv.style.display = "";
+          }
+        }
       }
 
       // 過濾功能
       const filterBox = document.getElementById("filterBox");
       filterBox.addEventListener("input", () => {
         const keyword = filterBox.value.toLowerCase();
-        for (const cardDiv of container.children) {
+        for (const cardDiv of cards) {
           const text = cardDiv.innerText.toLowerCase();
           cardDiv.style.display = text.includes(keyword) ? "" : "none";
         }
       });
+
+      // 按鈕事件
+      document.getElementById("showOwned").onclick = () => showCards("owned");
+      document.getElementById("showUnowned").onclick = () => showCards("unowned");
+      document.getElementById("showAll").onclick = () => showCards("all");
+
+      // 初始化統計
+      updateStats();
     }
 
     loadCards();
