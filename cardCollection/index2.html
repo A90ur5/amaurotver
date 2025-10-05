@@ -53,7 +53,7 @@
   <div id="cardContainer" class="card-grid"></div>
 
   <script>
-    function base64ToBytes(b64) {
+    function base64ToBytes(b64url) {
         let b64 = b64url.replace(/-/g, '+').replace(/_/g, '/');
         while (b64.length % 4) {
             b64 += '=';
