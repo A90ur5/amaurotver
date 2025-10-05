@@ -54,6 +54,10 @@
 
   <script>
     function base64ToBytes(b64) {
+        let b64 = b64url.replace(/-/g, '+').replace(/_/g, '/');
+        while (b64.length % 4) {
+            b64 += '=';
+        }
         const binaryStr = atob(b64);
         const bytes = new Uint8Array(binaryStr.length);
         for (let i = 0; i < binaryStr.length; i++) {
