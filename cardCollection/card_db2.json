@@ -1,0 +1,4152 @@
+{
+    "0": {
+        "Item_id": "4001",
+        "AegisName": "Poring_Card",
+        "Name": "波利卡片"
+    },
+    "1": {
+        "Item_id": "4002",
+        "AegisName": "Fabre_Card",
+        "Name": "綠棉蟲卡片"
+    },
+    "2": {
+        "Item_id": "4003",
+        "AegisName": "Pupa_Card",
+        "Name": "蟲蛹卡片"
+    },
+    "3": {
+        "Item_id": "4004",
+        "AegisName": "Drops_Card",
+        "Name": "土波利卡片"
+    },
+    "4": {
+        "Item_id": "4005",
+        "AegisName": "Poring__Card",
+        "Name": "聖誕波利卡片"
+    },
+    "5": {
+        "Item_id": "4006",
+        "AegisName": "Lunatic_Card",
+        "Name": "瘋兔卡片"
+    },
+    "6": {
+        "Item_id": "4007",
+        "AegisName": "Pecopeco_Egg_Card",
+        "Name": "大嘴鳥蛋卡片"
+    },
+    "7": {
+        "Item_id": "4008",
+        "AegisName": "Picky_Card",
+        "Name": "小雞卡片"
+    },
+    "8": {
+        "Item_id": "4009",
+        "AegisName": "Chonchon_Card",
+        "Name": "蒼蠅卡片"
+    },
+    "9": {
+        "Item_id": "4010",
+        "AegisName": "Wilow_Card",
+        "Name": "樹精卡片"
+    },
+    "10": {
+        "Item_id": "4011",
+        "AegisName": "Picky__Card",
+        "Name": "蛋殼小雞卡片"
+    },
+    "11": {
+        "Item_id": "4012",
+        "AegisName": "Thief_Bug_Egg_Card",
+        "Name": "盜蟲卵卡片"
+    },
+    "12": {
+        "Item_id": "4013",
+        "AegisName": "Andre_Egg_Card",
+        "Name": "蟻卵卡片"
+    },
+    "13": {
+        "Item_id": "4014",
+        "AegisName": "Roda_Frog_Card",
+        "Name": "羅達蛙卡片"
+    },
+    "14": {
+        "Item_id": "4015",
+        "AegisName": "Condor_Card",
+        "Name": "禿鷹卡片"
+    },
+    "15": {
+        "Item_id": "4016",
+        "AegisName": "Thief_Bug_Card",
+        "Name": "盜蟲卡片"
+    },
+    "16": {
+        "Item_id": "4017",
+        "AegisName": "Savage_Babe_Card",
+        "Name": "小野豬卡片"
+    },
+    "17": {
+        "Item_id": "4018",
+        "AegisName": "Andre_Larva_Card",
+        "Name": "白蟻幼蟲卡片"
+    },
+    "18": {
+        "Item_id": "4019",
+        "AegisName": "Hornet_Card",
+        "Name": "蜂兵卡片"
+    },
+    "19": {
+        "Item_id": "4020",
+        "AegisName": "Farmiliar_Card",
+        "Name": "吸血蝙蝠卡片"
+    },
+    "20": {
+        "Item_id": "4021",
+        "AegisName": "Rocker_Card",
+        "Name": "搖滾蝗蟲卡片"
+    },
+    "21": {
+        "Item_id": "4022",
+        "AegisName": "Spore_Card",
+        "Name": "魔菇卡片"
+    },
+    "22": {
+        "Item_id": "4023",
+        "AegisName": "Desert_Wolf_Babe_Card",
+        "Name": "沙漠幼狼卡片"
+    },
+    "23": {
+        "Item_id": "4024",
+        "AegisName": "Plankton_Card",
+        "Name": "漂浮蟲卡片"
+    },
+    "24": {
+        "Item_id": "4025",
+        "AegisName": "Skeleton_Card",
+        "Name": "邪骸戰士卡片"
+    },
+    "25": {
+        "Item_id": "4026",
+        "AegisName": "Thief_Bug_Female_Card",
+        "Name": "浮勒盜蟲卡片"
+    },
+    "26": {
+        "Item_id": "4027",
+        "AegisName": "Kukre_Card",
+        "Name": "庫克雷卡片"
+    },
+    "27": {
+        "Item_id": "4028",
+        "AegisName": "Tarou_Card",
+        "Name": "白鼠卡片"
+    },
+    "28": {
+        "Item_id": "4029",
+        "AegisName": "Wolf_Card",
+        "Name": "狼卡片"
+    },
+    "29": {
+        "Item_id": "4030",
+        "AegisName": "Mandragora_Card",
+        "Name": "曼陀羅魔花卡片"
+    },
+    "30": {
+        "Item_id": "4031",
+        "AegisName": "Pecopeco_Card",
+        "Name": "大嘴鳥卡片"
+    },
+    "31": {
+        "Item_id": "4032",
+        "AegisName": "Ambernite_Card",
+        "Name": "蝸牛卡片"
+    },
+    "32": {
+        "Item_id": "4033",
+        "AegisName": "Poporing_Card",
+        "Name": "波波利卡片"
+    },
+    "33": {
+        "Item_id": "4034",
+        "AegisName": "Worm_Tail_Card",
+        "Name": "森靈卡片"
+    },
+    "34": {
+        "Item_id": "4035",
+        "AegisName": "Hydra_Card",
+        "Name": "海葵卡片"
+    },
+    "35": {
+        "Item_id": "4036",
+        "AegisName": "Muka_Card",
+        "Name": "摩卡卡片"
+    },
+    "36": {
+        "Item_id": "4037",
+        "AegisName": "Snake_Card",
+        "Name": "青蛇卡片"
+    },
+    "37": {
+        "Item_id": "4038",
+        "AegisName": "Zombie_Card",
+        "Name": "腐屍卡片"
+    },
+    "38": {
+        "Item_id": "4039",
+        "AegisName": "Stainer_Card",
+        "Name": "瓢蟲卡片"
+    },
+    "39": {
+        "Item_id": "4040",
+        "AegisName": "Creamy_Card",
+        "Name": "克瑞米卡片"
+    },
+    "40": {
+        "Item_id": "4041",
+        "AegisName": "Coco_Card",
+        "Name": "松鼠卡片"
+    },
+    "41": {
+        "Item_id": "4042",
+        "AegisName": "Steel_Chonchon_Card",
+        "Name": "綠蒼蠅卡片"
+    },
+    "42": {
+        "Item_id": "4043",
+        "AegisName": "Andre_Card",
+        "Name": "白蟻卡片"
+    },
+    "43": {
+        "Item_id": "4044",
+        "AegisName": "Smokie_Card",
+        "Name": "貍貓卡片"
+    },
+    "44": {
+        "Item_id": "4045",
+        "AegisName": "Horn_Card",
+        "Name": "鍬形蟲卡片"
+    },
+    "45": {
+        "Item_id": "4046",
+        "AegisName": "Martin_Card",
+        "Name": "土撥鼠卡片"
+    },
+    "46": {
+        "Item_id": "4047",
+        "AegisName": "Ghostring_Card",
+        "Name": "幽靈波利卡片"
+    },
+    "47": {
+        "Item_id": "4048",
+        "AegisName": "Poison_Spore_Card",
+        "Name": "毒魔菇卡片"
+    },
+    "48": {
+        "Item_id": "4049",
+        "AegisName": "Vadon_Card",
+        "Name": "螃蟹卡片"
+    },
+    "49": {
+        "Item_id": "4050",
+        "AegisName": "Thief_Bug_Male_Card",
+        "Name": "瑪勒盜蟲卡片"
+    },
+    "50": {
+        "Item_id": "4051",
+        "AegisName": "Yoyo_Card",
+        "Name": "溜溜猴卡片"
+    },
+    "51": {
+        "Item_id": "4052",
+        "AegisName": "Elder_Wilow_Card",
+        "Name": "長老樹精卡片"
+    },
+    "52": {
+        "Item_id": "4053",
+        "AegisName": "Vitata_Card",
+        "Name": "黑蟻卡片"
+    },
+    "53": {
+        "Item_id": "4054",
+        "AegisName": "Angeling_Card",
+        "Name": "天使波利卡片"
+    },
+    "54": {
+        "Item_id": "4055",
+        "AegisName": "Marina_Card",
+        "Name": "水母卡片"
+    },
+    "55": {
+        "Item_id": "4056",
+        "AegisName": "Dustiness_Card",
+        "Name": "獵蠅卡片"
+    },
+    "56": {
+        "Item_id": "4057",
+        "AegisName": "Metaller_Card",
+        "Name": "重金屬蝗蟲卡片"
+    },
+    "57": {
+        "Item_id": "4058",
+        "AegisName": "Thara_Frog_Card",
+        "Name": "達拉蛙卡片"
+    },
+    "58": {
+        "Item_id": "4059",
+        "AegisName": "Soldier_Andre_Card",
+        "Name": "戰蟻卡片"
+    },
+    "59": {
+        "Item_id": "4060",
+        "AegisName": "Goblin_Card",
+        "Name": "哥布靈卡片"
+    },
+    "60": {
+        "Item_id": "4061",
+        "AegisName": "Cornutus_Card",
+        "Name": "卡那多斯卡片"
+    },
+    "61": {
+        "Item_id": "4062",
+        "AegisName": "Anacondaq_Card",
+        "Name": "黃蛇卡片"
+    },
+    "62": {
+        "Item_id": "4063",
+        "AegisName": "Caramel_Card",
+        "Name": "刺蝟蟲卡片"
+    },
+    "63": {
+        "Item_id": "4064",
+        "AegisName": "Zerom_Card",
+        "Name": "傑洛米卡片"
+    },
+    "64": {
+        "Item_id": "4065",
+        "AegisName": "Kaho_Card",
+        "Name": "卡浩卡片"
+    },
+    "65": {
+        "Item_id": "4066",
+        "AegisName": "Orc_Warrior_Card",
+        "Name": "獸人戰士卡片"
+    },
+    "66": {
+        "Item_id": "4067",
+        "AegisName": "Megalodon_Card",
+        "Name": "邪骸食人魚卡片"
+    },
+    "67": {
+        "Item_id": "4068",
+        "AegisName": "Scorpion_Card",
+        "Name": "蠍子卡片"
+    },
+    "68": {
+        "Item_id": "4069",
+        "AegisName": "Drainliar_Card",
+        "Name": "紅蝙蝠卡片"
+    },
+    "69": {
+        "Item_id": "4070",
+        "AegisName": "Eggyra_Card",
+        "Name": "轉轉蛋卡片"
+    },
+    "70": {
+        "Item_id": "4071",
+        "AegisName": "Orc_Zombie_Card",
+        "Name": "獸人腐屍卡片"
+    },
+    "71": {
+        "Item_id": "4072",
+        "AegisName": "Golem_Card",
+        "Name": "巨石怪卡片"
+    },
+    "72": {
+        "Item_id": "4073",
+        "AegisName": "Pirate_Skel_Card",
+        "Name": "邪骸海盜卡片"
+    },
+    "73": {
+        "Item_id": "4074",
+        "AegisName": "BigFoot_Card",
+        "Name": "大腳熊卡片"
+    },
+    "74": {
+        "Item_id": "4075",
+        "AegisName": "Argos_Card",
+        "Name": "艾斯蜘蛛卡片"
+    },
+    "75": {
+        "Item_id": "4076",
+        "AegisName": "Magnolia_Card",
+        "Name": "魔鍋蛋卡片"
+    },
+    "76": {
+        "Item_id": "4077",
+        "AegisName": "Phen_Card",
+        "Name": "劍魚卡片"
+    },
+    "77": {
+        "Item_id": "4078",
+        "AegisName": "Savage_Card",
+        "Name": "野豬卡片"
+    },
+    "78": {
+        "Item_id": "4079",
+        "AegisName": "Mantis_Card",
+        "Name": "螳螂卡片"
+    },
+    "79": {
+        "Item_id": "4080",
+        "AegisName": "Flora_Card",
+        "Name": "噬人花卡片"
+    },
+    "80": {
+        "Item_id": "4081",
+        "AegisName": "Hode_Card",
+        "Name": "蚯蚓卡片"
+    },
+    "81": {
+        "Item_id": "4082",
+        "AegisName": "Desert_Wolf_Card",
+        "Name": "沙漠之狼卡片"
+    },
+    "82": {
+        "Item_id": "4083",
+        "AegisName": "Rafflesia_Card",
+        "Name": "草精卡片"
+    },
+    "83": {
+        "Item_id": "4084",
+        "AegisName": "Marine_Sphere_Card",
+        "Name": "氣泡蟲卡片"
+    },
+    "84": {
+        "Item_id": "4085",
+        "AegisName": "Orc_Skeleton_Card",
+        "Name": "邪骸獸人卡片"
+    },
+    "85": {
+        "Item_id": "4086",
+        "AegisName": "Soldier_Skeleton_Card",
+        "Name": "邪骸士兵卡片"
+    },
+    "86": {
+        "Item_id": "4087",
+        "AegisName": "Giearth_Card",
+        "Name": "基爾瑟卡片"
+    },
+    "87": {
+        "Item_id": "4088",
+        "AegisName": "Frilldora_Card",
+        "Name": "傘蜥卡片"
+    },
+    "88": {
+        "Item_id": "4089",
+        "AegisName": "Sword_Fish_Card",
+        "Name": "異變魚卡片"
+    },
+    "89": {
+        "Item_id": "4090",
+        "AegisName": "Munak_Card",
+        "Name": "殭屍卡片"
+    },
+    "90": {
+        "Item_id": "4091",
+        "AegisName": "Kobold_Card",
+        "Name": "犬妖卡片"
+    },
+    "91": {
+        "Item_id": "4092",
+        "AegisName": "Skel_Worker_Card",
+        "Name": "邪骸礦工卡片"
+    },
+    "92": {
+        "Item_id": "4093",
+        "AegisName": "Obeaune_Card",
+        "Name": "人魚卡片"
+    },
+    "93": {
+        "Item_id": "4094",
+        "AegisName": "Archer_Skeleton_Card",
+        "Name": "邪骸弓箭手卡片"
+    },
+    "94": {
+        "Item_id": "4095",
+        "AegisName": "Marse_Card",
+        "Name": "烏賊卡片"
+    },
+    "95": {
+        "Item_id": "4096",
+        "AegisName": "Zenorc_Card",
+        "Name": "茲諾克卡片"
+    },
+    "96": {
+        "Item_id": "4097",
+        "AegisName": "Matyr_Card",
+        "Name": "黑狐卡片"
+    },
+    "97": {
+        "Item_id": "4098",
+        "AegisName": "Dokebi_Card",
+        "Name": "土人卡片"
+    },
+    "98": {
+        "Item_id": "4099",
+        "AegisName": "Pasana_Card",
+        "Name": "帕莎納卡片"
+    },
+    "99": {
+        "Item_id": "4100",
+        "AegisName": "Sohee_Card",
+        "Name": "鬼女卡片"
+    },
+    "100": {
+        "Item_id": "4101",
+        "AegisName": "Sand_Man_Card",
+        "Name": "泥人卡片"
+    },
+    "101": {
+        "Item_id": "4102",
+        "AegisName": "Whisper_Card",
+        "Name": "白幽靈卡片"
+    },
+    "102": {
+        "Item_id": "4103",
+        "AegisName": "Horong_Card",
+        "Name": "鬼火卡片"
+    },
+    "103": {
+        "Item_id": "4104",
+        "AegisName": "Requiem_Card",
+        "Name": "諾可伊卡片"
+    },
+    "104": {
+        "Item_id": "4105",
+        "AegisName": "Marc_Card",
+        "Name": "馬克卡片"
+    },
+    "105": {
+        "Item_id": "4106",
+        "AegisName": "Mummy_Card",
+        "Name": "木乃伊卡片"
+    },
+    "106": {
+        "Item_id": "4107",
+        "AegisName": "Verit_Card",
+        "Name": "木乃伊犬卡片"
+    },
+    "107": {
+        "Item_id": "4108",
+        "AegisName": "Myst_Card",
+        "Name": "麥斯特卡片"
+    },
+    "108": {
+        "Item_id": "4109",
+        "AegisName": "Jakk_Card",
+        "Name": "南瓜先生卡片"
+    },
+    "109": {
+        "Item_id": "4110",
+        "AegisName": "Ghoul_Card",
+        "Name": "綠腐屍卡片"
+    },
+    "110": {
+        "Item_id": "4111",
+        "AegisName": "Strouf_Card",
+        "Name": "海神卡片"
+    },
+    "111": {
+        "Item_id": "4112",
+        "AegisName": "Marduk_Card",
+        "Name": "馬爾杜克卡片"
+    },
+    "112": {
+        "Item_id": "4113",
+        "AegisName": "Marionette_Card",
+        "Name": "傀儡娃娃卡片"
+    },
+    "113": {
+        "Item_id": "4114",
+        "AegisName": "Argiope_Card",
+        "Name": "艾吉歐蜈蚣卡片"
+    },
+    "114": {
+        "Item_id": "4115",
+        "AegisName": "Hunter_Fly_Card",
+        "Name": "赤蒼蠅卡片"
+    },
+    "115": {
+        "Item_id": "4116",
+        "AegisName": "Isis_Card",
+        "Name": "蛇女伊絲卡片"
+    },
+    "116": {
+        "Item_id": "4117",
+        "AegisName": "Side_Winder_Card",
+        "Name": "黑蛇卡片"
+    },
+    "117": {
+        "Item_id": "4118",
+        "AegisName": "Petit_Card",
+        "Name": "畢帝特地龍卡片"
+    },
+    "118": {
+        "Item_id": "4119",
+        "AegisName": "Bathory_Card",
+        "Name": "巫婆卡片"
+    },
+    "119": {
+        "Item_id": "4120",
+        "AegisName": "Petit__Card",
+        "Name": "畢帝特飛龍卡片"
+    },
+    "120": {
+        "Item_id": "4121",
+        "AegisName": "Phreeoni_Card",
+        "Name": "皮里恩卡片"
+    },
+    "121": {
+        "Item_id": "4122",
+        "AegisName": "Deviruchi_Card",
+        "Name": "小惡魔卡片"
+    },
+    "122": {
+        "Item_id": "4123",
+        "AegisName": "Eddga_Card",
+        "Name": "虎王卡片"
+    },
+    "123": {
+        "Item_id": "4124",
+        "AegisName": "Medusa_Card",
+        "Name": "米杜沙卡片"
+    },
+    "124": {
+        "Item_id": "4125",
+        "AegisName": "Deviace_Card",
+        "Name": "狄奧斯卡片"
+    },
+    "125": {
+        "Item_id": "4126",
+        "AegisName": "Minorous_Card",
+        "Name": "米洛斯卡片"
+    },
+    "126": {
+        "Item_id": "4127",
+        "AegisName": "Nightmare_Card",
+        "Name": "夢魘卡片"
+    },
+    "127": {
+        "Item_id": "4128",
+        "AegisName": "Golden_Bug_Card",
+        "Name": "黃金蟲卡片"
+    },
+    "128": {
+        "Item_id": "4129",
+        "AegisName": "Baphomet__Card",
+        "Name": "小巴風特卡片"
+    },
+    "129": {
+        "Item_id": "4130",
+        "AegisName": "Scorpion_King_Card",
+        "Name": "蠍子之王卡片"
+    },
+    "130": {
+        "Item_id": "4131",
+        "AegisName": "Moonlight_Flower_Card",
+        "Name": "月夜貓卡片"
+    },
+    "131": {
+        "Item_id": "4132",
+        "AegisName": "Mistress_Card",
+        "Name": "蜂后卡片"
+    },
+    "132": {
+        "Item_id": "4133",
+        "AegisName": "Daydric_Card",
+        "Name": "幽靈劍士卡片"
+    },
+    "133": {
+        "Item_id": "4134",
+        "AegisName": "Dracula_Card",
+        "Name": "德古拉男爵卡片"
+    },
+    "134": {
+        "Item_id": "4135",
+        "AegisName": "Orc_Load_Card",
+        "Name": "獸人酋長卡片"
+    },
+    "135": {
+        "Item_id": "4136",
+        "AegisName": "Khalitzburg_Card",
+        "Name": "卡利斯格卡片"
+    },
+    "136": {
+        "Item_id": "4137",
+        "AegisName": "Drake_Card",
+        "Name": "海盜之王卡片"
+    },
+    "137": {
+        "Item_id": "4138",
+        "AegisName": "Anubis_Card",
+        "Name": "胡狼頭神卡片"
+    },
+    "138": {
+        "Item_id": "4139",
+        "AegisName": "Joker_Card",
+        "Name": "裘卡卡片"
+    },
+    "139": {
+        "Item_id": "4140",
+        "AegisName": "Knight_Of_Abyss_Card",
+        "Name": "深淵騎士卡片"
+    },
+    "140": {
+        "Item_id": "4141",
+        "AegisName": "Evil_Druid_Card",
+        "Name": "暗神官卡片"
+    },
+    "141": {
+        "Item_id": "4142",
+        "AegisName": "Doppelganger_Card",
+        "Name": "死靈卡片"
+    },
+    "142": {
+        "Item_id": "4143",
+        "AegisName": "Orc_Hero_Card",
+        "Name": "獸人英雄卡片"
+    },
+    "143": {
+        "Item_id": "4144",
+        "AegisName": "Osiris_Card",
+        "Name": "俄塞里斯卡片"
+    },
+    "144": {
+        "Item_id": "4145",
+        "AegisName": "Berzebub_Card",
+        "Name": "詛咒蠅王卡片"
+    },
+    "145": {
+        "Item_id": "4146",
+        "AegisName": "Maya_Card",
+        "Name": "蟻后卡片"
+    },
+    "146": {
+        "Item_id": "4147",
+        "AegisName": "Baphomet_Card",
+        "Name": "巴風特卡片"
+    },
+    "147": {
+        "Item_id": "4148",
+        "AegisName": "Pharaoh_Card",
+        "Name": "法老王卡片"
+    },
+    "148": {
+        "Item_id": "4149",
+        "AegisName": "Gargoyle_Card",
+        "Name": "蝙蝠弓箭手卡片"
+    },
+    "149": {
+        "Item_id": "4150",
+        "AegisName": "Goat_Card",
+        "Name": "魔羌卡片"
+    },
+    "150": {
+        "Item_id": "4151",
+        "AegisName": "Gajomart_Card",
+        "Name": "狂暴鬼火卡片"
+    },
+    "151": {
+        "Item_id": "4152",
+        "AegisName": "Galapago_Card",
+        "Name": "啤酒企鵝卡片"
+    },
+    "152": {
+        "Item_id": "4153",
+        "AegisName": "Crab_Card",
+        "Name": "卡拉蟹卡片"
+    },
+    "153": {
+        "Item_id": "4154",
+        "AegisName": "Rice_Cake_Boy_Card",
+        "Name": "元宵童子卡片"
+    },
+    "154": {
+        "Item_id": "4155",
+        "AegisName": "Goblin_Leader_Card",
+        "Name": "哥布靈首領卡片"
+    },
+    "155": {
+        "Item_id": "4156",
+        "AegisName": "Steam_Goblin_Card",
+        "Name": "噴射哥布靈卡片"
+    },
+    "156": {
+        "Item_id": "4157",
+        "AegisName": "Goblin_Archer_Card",
+        "Name": "弓箭哥布靈卡片"
+    },
+    "157": {
+        "Item_id": "4158",
+        "AegisName": "Flying_Deleter_Card",
+        "Name": "七彩飛龍卡片"
+    },
+    "158": {
+        "Item_id": "4159",
+        "AegisName": "Nine_Tail_Card",
+        "Name": "九尾狐卡片"
+    },
+    "159": {
+        "Item_id": "4160",
+        "AegisName": "Antique_Firelock_Card",
+        "Name": "武士火槍兵卡片"
+    },
+    "160": {
+        "Item_id": "4161",
+        "AegisName": "Grand_Peco_Card",
+        "Name": "七彩大嘴鳥卡片"
+    },
+    "161": {
+        "Item_id": "4162",
+        "AegisName": "Grizzly_Card",
+        "Name": "暴焰野熊卡片"
+    },
+    "162": {
+        "Item_id": "4163",
+        "AegisName": "Gryphon_Card",
+        "Name": "獅鷲獸卡片"
+    },
+    "163": {
+        "Item_id": "4164",
+        "AegisName": "Gullinbursti_Card",
+        "Name": "狂暴野豬卡片"
+    },
+    "164": {
+        "Item_id": "4165",
+        "AegisName": "Gig_Card",
+        "Name": "沙漠毒蝎卡片"
+    },
+    "165": {
+        "Item_id": "4166",
+        "AegisName": "Nightmare_Terror_Card",
+        "Name": "七彩夢魘卡片"
+    },
+    "166": {
+        "Item_id": "4167",
+        "AegisName": "Neraid_Card",
+        "Name": "奈利蟲卡片"
+    },
+    "167": {
+        "Item_id": "4168",
+        "AegisName": "Dark_Lord_Card",
+        "Name": "黑暗之王卡片"
+    },
+    "168": {
+        "Item_id": "4169",
+        "AegisName": "Dark_Illusion_Card",
+        "Name": "迷幻之王卡片"
+    },
+    "169": {
+        "Item_id": "4170",
+        "AegisName": "Dark_Frame_Card",
+        "Name": "鏡妖卡片"
+    },
+    "170": {
+        "Item_id": "4171",
+        "AegisName": "Dark_Priest_Card",
+        "Name": "暗黑祭司卡片"
+    },
+    "171": {
+        "Item_id": "4172",
+        "AegisName": "The_Paper_Card",
+        "Name": "紙妖卡片"
+    },
+    "172": {
+        "Item_id": "4173",
+        "AegisName": "Demon_Pungus_Card",
+        "Name": "天邪鬼卡片"
+    },
+    "173": {
+        "Item_id": "4174",
+        "AegisName": "Deviling_Card",
+        "Name": "惡魔波利卡片"
+    },
+    "174": {
+        "Item_id": "4175",
+        "AegisName": "Poison_Toad_Card",
+        "Name": "牛蛙卡片"
+    },
+    "175": {
+        "Item_id": "4176",
+        "AegisName": "Dullahan_Card",
+        "Name": "無顱武士卡片"
+    },
+    "176": {
+        "Item_id": "4177",
+        "AegisName": "Dryad_Card",
+        "Name": "森林妖姬卡片"
+    },
+    "177": {
+        "Item_id": "4178",
+        "AegisName": "Dragon_Tail_Card",
+        "Name": "刺尾蜻蜓卡片"
+    },
+    "178": {
+        "Item_id": "4179",
+        "AegisName": "Dragon_Fly_Card",
+        "Name": "龍蠅卡片"
+    },
+    "179": {
+        "Item_id": "4180",
+        "AegisName": "Driller_Card",
+        "Name": "爆鉆傘蜥卡片"
+    },
+    "180": {
+        "Item_id": "4181",
+        "AegisName": "Disguise_Card",
+        "Name": "假面鬼卡片"
+    },
+    "181": {
+        "Item_id": "4182",
+        "AegisName": "Diabolic_Card",
+        "Name": "赤焰小惡魔卡片"
+    },
+    "182": {
+        "Item_id": "4183",
+        "AegisName": "Vagabond_Wolf_Card",
+        "Name": "流浪之狼卡片"
+    },
+    "183": {
+        "Item_id": "4184",
+        "AegisName": "Lava_Golem_Card",
+        "Name": "熔巖巨石卡片"
+    },
+    "184": {
+        "Item_id": "4185",
+        "AegisName": "Rideword_Card",
+        "Name": "飛行魔書卡片"
+    },
+    "185": {
+        "Item_id": "4186",
+        "AegisName": "Raggler_Card",
+        "Name": "奈吉鳥卡片"
+    },
+    "186": {
+        "Item_id": "4187",
+        "AegisName": "Raydric_Archer_Card",
+        "Name": "幽靈弓箭手卡片"
+    },
+    "187": {
+        "Item_id": "4188",
+        "AegisName": "Leib_Olmai_Card",
+        "Name": "狂暴大腳熊卡片"
+    },
+    "188": {
+        "Item_id": "4189",
+        "AegisName": "Wraith_Dead_Card",
+        "Name": "狂暴惡靈卡片"
+    },
+    "189": {
+        "Item_id": "4190",
+        "AegisName": "Wraith_Card",
+        "Name": "惡靈卡片"
+    },
+    "190": {
+        "Item_id": "4191",
+        "AegisName": "Loli_Ruri_Card",
+        "Name": "銀月魔女卡片"
+    },
+    "191": {
+        "Item_id": "4192",
+        "AegisName": "Rotar_Zairo_Card",
+        "Name": "直升機哥布靈卡片"
+    },
+    "192": {
+        "Item_id": "4193",
+        "AegisName": "Lude_Card",
+        "Name": "南瓜魂卡片"
+    },
+    "193": {
+        "Item_id": "4194",
+        "AegisName": "Rybio_Card",
+        "Name": "瑞比歐卡片"
+    },
+    "194": {
+        "Item_id": "4195",
+        "AegisName": "Leaf_Cat_Card",
+        "Name": "群葉貓卡片"
+    },
+    "195": {
+        "Item_id": "4196",
+        "AegisName": "Marin_Card",
+        "Name": "冰波利卡片"
+    },
+    "196": {
+        "Item_id": "4197",
+        "AegisName": "Mastering_Card",
+        "Name": "波利之王卡片"
+    },
+    "197": {
+        "Item_id": "4198",
+        "AegisName": "Maya_Puple_Card",
+        "Name": "狂暴蟻后卡片"
+    },
+    "198": {
+        "Item_id": "4199",
+        "AegisName": "Merman_Card",
+        "Name": "人魚士兵卡片"
+    },
+    "199": {
+        "Item_id": "4200",
+        "AegisName": "Megalith_Card",
+        "Name": "邪惡摩艾卡片"
+    },
+    "200": {
+        "Item_id": "4201",
+        "AegisName": "Majoruros_Card",
+        "Name": "狂暴米諾斯卡片"
+    },
+    "201": {
+        "Item_id": "4202",
+        "AegisName": "Civil_Servant_Card",
+        "Name": "狐仙卡片"
+    },
+    "202": {
+        "Item_id": "4203",
+        "AegisName": "Mutant_Dragon_Card",
+        "Name": "半龍人卡片"
+    },
+    "203": {
+        "Item_id": "4204",
+        "AegisName": "Mini_Demon_Card",
+        "Name": "狂暴小惡魔卡片"
+    },
+    "204": {
+        "Item_id": "4205",
+        "AegisName": "Mimic_Card",
+        "Name": "邪惡箱卡片"
+    },
+    "205": {
+        "Item_id": "4206",
+        "AegisName": "Mystcase_Card",
+        "Name": "邪惡禮盒卡片"
+    },
+    "206": {
+        "Item_id": "4207",
+        "AegisName": "Mysteltainn_Card",
+        "Name": "弒神者卡片"
+    },
+    "207": {
+        "Item_id": "4208",
+        "AegisName": "Miyabi_Ningyo_Card",
+        "Name": "米雅畢卡片"
+    },
+    "208": {
+        "Item_id": "4209",
+        "AegisName": "Violy_Card",
+        "Name": "薇歐莉卡片"
+    },
+    "209": {
+        "Item_id": "4210",
+        "AegisName": "Wander_Man_Card",
+        "Name": "邪骸浪人卡片"
+    },
+    "210": {
+        "Item_id": "4211",
+        "AegisName": "Vocal_Card",
+        "Name": "蝗蟲之王卡片"
+    },
+    "211": {
+        "Item_id": "4212",
+        "AegisName": "Bon_Gun_Card",
+        "Name": "妖道卡片"
+    },
+    "212": {
+        "Item_id": "4213",
+        "AegisName": "Brilight_Card",
+        "Name": "伊特瓢蟲卡片"
+    },
+    "213": {
+        "Item_id": "4214",
+        "AegisName": "Bloody_Murderer_Card",
+        "Name": "嗜血怪人卡片"
+    },
+    "214": {
+        "Item_id": "4215",
+        "AegisName": "Blazzer_Card",
+        "Name": "火焰妖卡片"
+    },
+    "215": {
+        "Item_id": "4216",
+        "AegisName": "Sasquatch_Card",
+        "Name": "雪熊卡片"
+    },
+    "216": {
+        "Item_id": "4217",
+        "AegisName": "Live_Peach_Tree_Card",
+        "Name": "猴桃木卡片"
+    },
+    "217": {
+        "Item_id": "4218",
+        "AegisName": "Succubus_Card",
+        "Name": "惡魔女僕卡片"
+    },
+    "218": {
+        "Item_id": "4219",
+        "AegisName": "Sageworm_Card",
+        "Name": "賢者蟲卡片"
+    },
+    "219": {
+        "Item_id": "4220",
+        "AegisName": "Solider_Card",
+        "Name": "巖石龜卡片"
+    },
+    "220": {
+        "Item_id": "4221",
+        "AegisName": "Skeleton_General_Card",
+        "Name": "邪骸戰士長卡片"
+    },
+    "221": {
+        "Item_id": "4222",
+        "AegisName": "Skel_Prisoner_Card",
+        "Name": "邪骸戰俘卡片"
+    },
+    "222": {
+        "Item_id": "4223",
+        "AegisName": "Stalactic_Golem_Card",
+        "Name": "鐘乳巨石怪卡片"
+    },
+    "223": {
+        "Item_id": "4224",
+        "AegisName": "Stem_Worm_Card",
+        "Name": "灰森靈卡片"
+    },
+    "224": {
+        "Item_id": "4225",
+        "AegisName": "Stone_Shooter_Card",
+        "Name": "石炮火樹卡片"
+    },
+    "225": {
+        "Item_id": "4226",
+        "AegisName": "Sting_Card",
+        "Name": "史汀卡片"
+    },
+    "226": {
+        "Item_id": "4227",
+        "AegisName": "Spring_Rabbit_Card",
+        "Name": "彈簧兔卡片"
+    },
+    "227": {
+        "Item_id": "4228",
+        "AegisName": "Sleeper_Card",
+        "Name": "沙妖卡片"
+    },
+    "228": {
+        "Item_id": "4229",
+        "AegisName": "C_Tower_Manager_Card",
+        "Name": "鐘塔守護者卡片"
+    },
+    "229": {
+        "Item_id": "4230",
+        "AegisName": "Shinobi_Card",
+        "Name": "火忍西怒畢卡片"
+    },
+    "230": {
+        "Item_id": "4231",
+        "AegisName": "Increase_Soil_Card",
+        "Name": "米糕卡片"
+    },
+    "231": {
+        "Item_id": "4232",
+        "AegisName": "Wild_Ginseng_Card",
+        "Name": "人蔘精卡片"
+    },
+    "232": {
+        "Item_id": "4233",
+        "AegisName": "Baby_Leopard_Card",
+        "Name": "小花豹卡片"
+    },
+    "233": {
+        "Item_id": "4234",
+        "AegisName": "Anolian_Card",
+        "Name": "虎蜥人卡片"
+    },
+    "234": {
+        "Item_id": "4235",
+        "AegisName": "Cookie_XMAS_Card",
+        "Name": "XMAS甜餅人卡片"
+    },
+    "235": {
+        "Item_id": "4236",
+        "AegisName": "Amon_Ra_Card",
+        "Name": "古埃及王卡片"
+    },
+    "236": {
+        "Item_id": "4237",
+        "AegisName": "Owl_Duke_Card",
+        "Name": "鴞裊首領卡片"
+    },
+    "237": {
+        "Item_id": "4238",
+        "AegisName": "Owl_Baron_Card",
+        "Name": "鴞裊男爵卡片"
+    },
+    "238": {
+        "Item_id": "4239",
+        "AegisName": "Iron_Fist_Card",
+        "Name": "鐵蝎卡片"
+    },
+    "239": {
+        "Item_id": "4240",
+        "AegisName": "Arclouse_Card",
+        "Name": "卷甲蟲卡片"
+    },
+    "240": {
+        "Item_id": "4241",
+        "AegisName": "Archangeling_Card",
+        "Name": "聖天使波利卡片"
+    },
+    "241": {
+        "Item_id": "4242",
+        "AegisName": "Apocalips_Card",
+        "Name": "阿修羅機械戰士卡片"
+    },
+    "242": {
+        "Item_id": "4243",
+        "AegisName": "Antonio_Card",
+        "Name": "邪惡老公公卡片"
+    },
+    "243": {
+        "Item_id": "4244",
+        "AegisName": "Alarm_Card",
+        "Name": "鐘怪卡片"
+    },
+    "244": {
+        "Item_id": "4245",
+        "AegisName": "Am_Mut_Card",
+        "Name": "狂暴小土人卡片"
+    },
+    "245": {
+        "Item_id": "4246",
+        "AegisName": "Assulter_Card",
+        "Name": "風靈龜卡片"
+    },
+    "246": {
+        "Item_id": "4247",
+        "AegisName": "Aster_Card",
+        "Name": "海星卡片"
+    },
+    "247": {
+        "Item_id": "4248",
+        "AegisName": "Ancient_Mummy_Card",
+        "Name": "狂暴木乃伊卡片"
+    },
+    "248": {
+        "Item_id": "4249",
+        "AegisName": "Ancient_Worm_Card",
+        "Name": "狂暴蜈蚣卡片"
+    },
+    "249": {
+        "Item_id": "4250",
+        "AegisName": "Executioner_Card",
+        "Name": "行刑者卡片"
+    },
+    "250": {
+        "Item_id": "4251",
+        "AegisName": "Elder_Card",
+        "Name": "邪靈魔導士卡片"
+    },
+    "251": {
+        "Item_id": "4252",
+        "AegisName": "Alligator_Card",
+        "Name": "鱷魚人卡片"
+    },
+    "252": {
+        "Item_id": "4253",
+        "AegisName": "Alice_Card",
+        "Name": "愛麗絲女僕卡片"
+    },
+    "253": {
+        "Item_id": "4254",
+        "AegisName": "Tirfing_Card",
+        "Name": "獸牙怪卡片"
+    },
+    "254": {
+        "Item_id": "4255",
+        "AegisName": "Orc_Lady_Card",
+        "Name": "獸人女戰士卡片"
+    },
+    "255": {
+        "Item_id": "4256",
+        "AegisName": "Orc_Archer_Card",
+        "Name": "獸人弓箭手卡片"
+    },
+    "256": {
+        "Item_id": "4257",
+        "AegisName": "Wild_Rose_Card",
+        "Name": "狂暴野貓卡片"
+    },
+    "257": {
+        "Item_id": "4258",
+        "AegisName": "Wicked_Nymph_Card",
+        "Name": "妖仙女卡片"
+    },
+    "258": {
+        "Item_id": "4259",
+        "AegisName": "Wooden_Golem_Card",
+        "Name": "機木人卡片"
+    },
+    "259": {
+        "Item_id": "4260",
+        "AegisName": "Wootan_Shooter_Card",
+        "Name": "伍坦彈弓手卡片"
+    },
+    "260": {
+        "Item_id": "4261",
+        "AegisName": "Wootan_Fighter_Card",
+        "Name": "伍坦戰士卡片"
+    },
+    "261": {
+        "Item_id": "4262",
+        "AegisName": "Evil_Cloud_Hermit_Card",
+        "Name": "惡云仙人卡片"
+    },
+    "262": {
+        "Item_id": "4263",
+        "AegisName": "Incant_Samurai_Card",
+        "Name": "元靈武士卡片"
+    },
+    "263": {
+        "Item_id": "4264",
+        "AegisName": "Wind_Ghost_Card",
+        "Name": "風魔巫師卡片"
+    },
+    "264": {
+        "Item_id": "4265",
+        "AegisName": "Li_Me_Mang_Ryang_Card",
+        "Name": "豹皮怪卡片"
+    },
+    "265": {
+        "Item_id": "4266",
+        "AegisName": "Eclipse_Card",
+        "Name": "藍瘋兔卡片"
+    },
+    "266": {
+        "Item_id": "4267",
+        "AegisName": "Explosion_Card",
+        "Name": "爆炎蝙蝠卡片"
+    },
+    "267": {
+        "Item_id": "4268",
+        "AegisName": "Injustice_Card",
+        "Name": "邪惡使者卡片"
+    },
+    "268": {
+        "Item_id": "4269",
+        "AegisName": "Incubus_Card",
+        "Name": "惡魔侍者卡片"
+    },
+    "269": {
+        "Item_id": "4270",
+        "AegisName": "Giant_Spider_Card",
+        "Name": "狂暴蜘蛛卡片"
+    },
+    "270": {
+        "Item_id": "4271",
+        "AegisName": "Giant_Honet_Card",
+        "Name": "狂暴蜂兵卡片"
+    },
+    "271": {
+        "Item_id": "4272",
+        "AegisName": "Dancing_Dragon_Card",
+        "Name": "舞獅卡片"
+    },
+    "272": {
+        "Item_id": "4273",
+        "AegisName": "Shellfish_Card",
+        "Name": "貝殼魔靈卡片"
+    },
+    "273": {
+        "Item_id": "4274",
+        "AegisName": "Zombie_Master_Card",
+        "Name": "腐屍首領卡片"
+    },
+    "274": {
+        "Item_id": "4275",
+        "AegisName": "Zombie_Prisoner_Card",
+        "Name": "腐屍戰俘卡片"
+    },
+    "275": {
+        "Item_id": "4276",
+        "AegisName": "Lord_Of_Death_Card",
+        "Name": "死靈騎士卡片"
+    },
+    "276": {
+        "Item_id": "4277",
+        "AegisName": "Zherlthsh_Card",
+        "Name": "艾斯恩魔女卡片"
+    },
+    "277": {
+        "Item_id": "4278",
+        "AegisName": "Gibbet_Card",
+        "Name": "鬼娃樹卡片"
+    },
+    "278": {
+        "Item_id": "4279",
+        "AegisName": "Deleter_Card",
+        "Name": "七彩地龍卡片"
+    },
+    "279": {
+        "Item_id": "4280",
+        "AegisName": "Geographer_Card",
+        "Name": "邪惡向日葵卡片"
+    },
+    "280": {
+        "Item_id": "4281",
+        "AegisName": "Zipper_Bear_Card",
+        "Name": "拉鍊熊卡片"
+    },
+    "281": {
+        "Item_id": "4282",
+        "AegisName": "Tengu_Card",
+        "Name": "天狗卡片"
+    },
+    "282": {
+        "Item_id": "4283",
+        "AegisName": "Greatest_General_Card",
+        "Name": "將軍魔碑卡片"
+    },
+    "283": {
+        "Item_id": "4284",
+        "AegisName": "Chepet_Card",
+        "Name": "魔靈娃娃卡片"
+    },
+    "284": {
+        "Item_id": "4285",
+        "AegisName": "Choco_Card",
+        "Name": "巧克猴卡片"
+    },
+    "285": {
+        "Item_id": "4286",
+        "AegisName": "Karakasa_Card",
+        "Name": "傘妖卡片"
+    },
+    "286": {
+        "Item_id": "4287",
+        "AegisName": "Kapha_Card",
+        "Name": "釣魚河童卡片"
+    },
+    "287": {
+        "Item_id": "4288",
+        "AegisName": "Carat_Card",
+        "Name": "卡拉特小丑卡片"
+    },
+    "288": {
+        "Item_id": "4289",
+        "AegisName": "Caterpillar_Card",
+        "Name": "狂暴綠綿蟲卡片"
+    },
+    "289": {
+        "Item_id": "4290",
+        "AegisName": "Cat_O_Nine_Tail_Card",
+        "Name": "狂暴月夜貓卡片"
+    },
+    "290": {
+        "Item_id": "4291",
+        "AegisName": "Kobold_Leader_Card",
+        "Name": "犬妖首領卡片"
+    },
+    "291": {
+        "Item_id": "4292",
+        "AegisName": "Kobold_Archer_Card",
+        "Name": "犬妖弓箭手卡片"
+    },
+    "292": {
+        "Item_id": "4293",
+        "AegisName": "Cookie_Card",
+        "Name": "甜餅人卡片"
+    },
+    "293": {
+        "Item_id": "4294",
+        "AegisName": "Quve_Card",
+        "Name": "萬聖魔卡片"
+    },
+    "294": {
+        "Item_id": "4295",
+        "AegisName": "Kraben_Card",
+        "Name": "克萊本卡片"
+    },
+    "295": {
+        "Item_id": "4296",
+        "AegisName": "Cramp_Card",
+        "Name": "藍鼠卡片"
+    },
+    "296": {
+        "Item_id": "4297",
+        "AegisName": "Cruiser_Card",
+        "Name": "玩具士兵卡片"
+    },
+    "297": {
+        "Item_id": "4298",
+        "AegisName": "Cremy_Fear_Card",
+        "Name": "狂暴克瑞米卡片"
+    },
+    "298": {
+        "Item_id": "4299",
+        "AegisName": "Clock_Card",
+        "Name": "古鐘魔卡片"
+    },
+    "299": {
+        "Item_id": "4300",
+        "AegisName": "Chimera_Card",
+        "Name": "凱美拉卡片"
+    },
+    "300": {
+        "Item_id": "4301",
+        "AegisName": "Killer_Mantis_Card",
+        "Name": "狂暴螳螂卡片"
+    },
+    "301": {
+        "Item_id": "4302",
+        "AegisName": "Tao_Gunka_Card",
+        "Name": "塔奧群卡卡片"
+    },
+    "302": {
+        "Item_id": "4303",
+        "AegisName": "Whisper_Boss_Card",
+        "Name": "巨大白幽靈卡片"
+    },
+    "303": {
+        "Item_id": "4304",
+        "AegisName": "Tamruan_Card",
+        "Name": "塔嚕安卡片"
+    },
+    "304": {
+        "Item_id": "4305",
+        "AegisName": "Turtle_General_Card",
+        "Name": "烏龜將軍卡片"
+    },
+    "305": {
+        "Item_id": "4306",
+        "AegisName": "Toad_Card",
+        "Name": "蛙王卡片"
+    },
+    "306": {
+        "Item_id": "4307",
+        "AegisName": "Kind_Of_Beetle_Card",
+        "Name": "巨象甲蟲卡片"
+    },
+    "307": {
+        "Item_id": "4308",
+        "AegisName": "Tri_Joint_Card",
+        "Name": "三葉蟲卡片"
+    },
+    "308": {
+        "Item_id": "4309",
+        "AegisName": "Parasite_Card",
+        "Name": "苗娃佩瑞絲卡片"
+    },
+    "309": {
+        "Item_id": "4310",
+        "AegisName": "Panzer_Goblin_Card",
+        "Name": "狂暴哥布靈卡片"
+    },
+    "310": {
+        "Item_id": "4311",
+        "AegisName": "Permeter_Card",
+        "Name": "果樹龜卡片"
+    },
+    "311": {
+        "Item_id": "4312",
+        "AegisName": "Fur_Seal_Card",
+        "Name": "海豹寶寶卡片"
+    },
+    "312": {
+        "Item_id": "4313",
+        "AegisName": "Punk_Card",
+        "Name": "朽魔卡片"
+    },
+    "313": {
+        "Item_id": "4314",
+        "AegisName": "Penomena_Card",
+        "Name": "梅納海葵卡片"
+    },
+    "314": {
+        "Item_id": "4315",
+        "AegisName": "Pest_Card",
+        "Name": "單眼蟲卡片"
+    },
+    "315": {
+        "Item_id": "4316",
+        "AegisName": "Fake_Angel_Card",
+        "Name": "偽天使卡片"
+    },
+    "316": {
+        "Item_id": "4317",
+        "AegisName": "Mobster_Card",
+        "Name": "流氓卡片"
+    },
+    "317": {
+        "Item_id": "4318",
+        "AegisName": "Knight_Windstorm_Card",
+        "Name": "冰暴騎士卡片"
+    },
+    "318": {
+        "Item_id": "4319",
+        "AegisName": "Freezer_Card",
+        "Name": "水靈龜卡片"
+    },
+    "319": {
+        "Item_id": "4320",
+        "AegisName": "Bloody_Knight_Card",
+        "Name": "血腥騎士卡片"
+    },
+    "320": {
+        "Item_id": "4321",
+        "AegisName": "Hylozoist_Card",
+        "Name": "兔斯拉卡片"
+    },
+    "321": {
+        "Item_id": "4322",
+        "AegisName": "High_Orc_Card",
+        "Name": "獸人戰士長卡片"
+    },
+    "322": {
+        "Item_id": "4323",
+        "AegisName": "Garm_Baby_Card",
+        "Name": "卡崙寶寶卡片"
+    },
+    "323": {
+        "Item_id": "4324",
+        "AegisName": "Garm_Card",
+        "Name": "卡崙卡片"
+    },
+    "324": {
+        "Item_id": "4325",
+        "AegisName": "Harpy_Card",
+        "Name": "鳥人哈比卡片"
+    },
+    "325": {
+        "Item_id": "4326",
+        "AegisName": "See_Otter_Card",
+        "Name": "海獺卡片"
+    },
+    "326": {
+        "Item_id": "4327",
+        "AegisName": "Blood_Butterfly_Card",
+        "Name": "血蝴蝶卡片"
+    },
+    "327": {
+        "Item_id": "4328",
+        "AegisName": "Hyegun_Card",
+        "Name": "妖君卡片"
+    },
+    "328": {
+        "Item_id": "4329",
+        "AegisName": "Phendark_Card",
+        "Name": "阿修羅狂戰士卡片"
+    },
+    "329": {
+        "Item_id": "4330",
+        "AegisName": "Dark_Snake_Lord_Card",
+        "Name": "墨蛇君卡片"
+    },
+    "330": {
+        "Item_id": "4331",
+        "AegisName": "Heater_Card",
+        "Name": "火焰龜卡片"
+    },
+    "331": {
+        "Item_id": "4332",
+        "AegisName": "Waste_Stove_Card",
+        "Name": "廢鐵暖爐卡片"
+    },
+    "332": {
+        "Item_id": "4333",
+        "AegisName": "Venomous_Card",
+        "Name": "毒液魔卡片"
+    },
+    "333": {
+        "Item_id": "4334",
+        "AegisName": "Noxious_Card",
+        "Name": "廢氣魔卡片"
+    },
+    "334": {
+        "Item_id": "4335",
+        "AegisName": "Pitman_Card",
+        "Name": "礦工魔卡片"
+    },
+    "335": {
+        "Item_id": "4336",
+        "AegisName": "Ungoliant_Card",
+        "Name": "溫古力安特卡片"
+    },
+    "336": {
+        "Item_id": "4337",
+        "AegisName": "Porcellio_Card",
+        "Name": "三葉鐵甲蟲卡片"
+    },
+    "337": {
+        "Item_id": "4338",
+        "AegisName": "Obsidian_Card",
+        "Name": "黑曜石卡片"
+    },
+    "338": {
+        "Item_id": "4339",
+        "AegisName": "Mineral_Card",
+        "Name": "礦石魔卡片"
+    },
+    "339": {
+        "Item_id": "4340",
+        "AegisName": "Teddy_Bear_Card",
+        "Name": "玩偶熊卡片"
+    },
+    "340": {
+        "Item_id": "4341",
+        "AegisName": "Metaling_Card",
+        "Name": "金屬波利卡片"
+    },
+    "341": {
+        "Item_id": "4342",
+        "AegisName": "Rsx_0806_Card",
+        "Name": "RSX-0806卡片"
+    },
+    "342": {
+        "Item_id": "4343",
+        "AegisName": "Mole_Card",
+        "Name": "摩爾卡片"
+    },
+    "343": {
+        "Item_id": "4344",
+        "AegisName": "Anopheles_Card",
+        "Name": "瘧蚊卡片"
+    },
+    "344": {
+        "Item_id": "4345",
+        "AegisName": "Hill_Wind_Card",
+        "Name": "希爾隊長卡片"
+    },
+    "345": {
+        "Item_id": "4346",
+        "AegisName": "Ygnizem_Card",
+        "Name": "闇●劍士卡片"
+    },
+    "346": {
+        "Item_id": "4347",
+        "AegisName": "Armaia_Card",
+        "Name": "闇●商人卡片"
+    },
+    "347": {
+        "Item_id": "4348",
+        "AegisName": "Whikebain_Card",
+        "Name": "闇●盜賊卡片"
+    },
+    "348": {
+        "Item_id": "4349",
+        "AegisName": "Erend_Card",
+        "Name": "闇●服侍卡片"
+    },
+    "349": {
+        "Item_id": "4350",
+        "AegisName": "Rawrel_Card",
+        "Name": "闇●魔法師卡片"
+    },
+    "350": {
+        "Item_id": "4351",
+        "AegisName": "Kavac_Card",
+        "Name": "闇●弓箭手卡片"
+    },
+    "351": {
+        "Item_id": "4352",
+        "AegisName": "B_Ygnizem_Card",
+        "Name": "闇●劍士賽尼亞卡片"
+    },
+    "352": {
+        "Item_id": "4353",
+        "AegisName": "Removal_Card",
+        "Name": "消防魔卡片"
+    },
+    "353": {
+        "Item_id": "4354",
+        "AegisName": "Gemini_Card",
+        "Name": "雙子星-S58卡片"
+    },
+    "354": {
+        "Item_id": "4355",
+        "AegisName": "Gremlin_Card",
+        "Name": "小妖精卡片"
+    },
+    "355": {
+        "Item_id": "4356",
+        "AegisName": "Beholder_Card",
+        "Name": "惡魔之眼卡片"
+    },
+    "356": {
+        "Item_id": "4357",
+        "AegisName": "B_Seyren_Card",
+        "Name": "闇●騎士領主 賽依連卡片"
+    },
+    "357": {
+        "Item_id": "4358",
+        "AegisName": "Seyren_Card",
+        "Name": "闇●騎士領主卡片"
+    },
+    "358": {
+        "Item_id": "4359",
+        "AegisName": "B_Eremes_Card",
+        "Name": "闇●十字刺客 艾勒梅斯卡片"
+    },
+    "359": {
+        "Item_id": "4360",
+        "AegisName": "Eremes_Card",
+        "Name": "闇●十字刺客卡片"
+    },
+    "360": {
+        "Item_id": "4361",
+        "AegisName": "B_Harword_Card",
+        "Name": "闇●神工匠 哈沃得卡片"
+    },
+    "361": {
+        "Item_id": "4362",
+        "AegisName": "Harword_Card",
+        "Name": "闇●神工匠卡片"
+    },
+    "362": {
+        "Item_id": "4363",
+        "AegisName": "B_Magaleta_Card",
+        "Name": "闇●神官 瑪嘉雷特卡片"
+    },
+    "363": {
+        "Item_id": "4364",
+        "AegisName": "Magaleta_Card",
+        "Name": "闇●神官卡片"
+    },
+    "364": {
+        "Item_id": "4365",
+        "AegisName": "B_Katrinn_Card",
+        "Name": "闇●超魔導師 凱特莉娜卡片"
+    },
+    "365": {
+        "Item_id": "4366",
+        "AegisName": "Katrinn_Card",
+        "Name": "闇●超魔導師卡片"
+    },
+    "366": {
+        "Item_id": "4367",
+        "AegisName": "B_Shecil_Card",
+        "Name": "闇●神射手 迪文卡片"
+    },
+    "367": {
+        "Item_id": "4368",
+        "AegisName": "Shecil_Card",
+        "Name": "闇●神射手卡片"
+    },
+    "368": {
+        "Item_id": "4369",
+        "AegisName": "Venatu_Card",
+        "Name": "凡娜圖卡片"
+    },
+    "369": {
+        "Item_id": "4370",
+        "AegisName": "Dimik_Card",
+        "Name": "迪靡克卡片"
+    },
+    "370": {
+        "Item_id": "4371",
+        "AegisName": "Archdam_Card",
+        "Name": "阿克坦卡片"
+    },
+    "371": {
+        "Item_id": "4372",
+        "AegisName": "Bacsojin_Card",
+        "Name": "白素貞卡片"
+    },
+    "372": {
+        "Item_id": "4373",
+        "AegisName": "Chung_E_Card",
+        "Name": "小青卡片"
+    },
+    "373": {
+        "Item_id": "4374",
+        "AegisName": "Apocalips_H_Card",
+        "Name": "貝思波卡片"
+    },
+    "374": {
+        "Item_id": "4375",
+        "AegisName": "Orc_Baby_Card",
+        "Name": "獸人嬰兒卡片"
+    },
+    "375": {
+        "Item_id": "4376",
+        "AegisName": "Lady_Tanee_Card",
+        "Name": "嗒妮小姐卡片"
+    },
+    "376": {
+        "Item_id": "4377",
+        "AegisName": "Green_Iguana_Card",
+        "Name": "綠變色龍卡片"
+    },
+    "377": {
+        "Item_id": "4378",
+        "AegisName": "Acidus_Card",
+        "Name": "俄希托斯卡片"
+    },
+    "378": {
+        "Item_id": "4379",
+        "AegisName": "Acidus__Card",
+        "Name": "灰俄希托斯卡片"
+    },
+    "379": {
+        "Item_id": "4380",
+        "AegisName": "Ferus_Card",
+        "Name": "紅貝勒斯卡片"
+    },
+    "380": {
+        "Item_id": "4381",
+        "AegisName": "Ferus__Card",
+        "Name": "綠貝勒斯卡片"
+    },
+    "381": {
+        "Item_id": "4382",
+        "AegisName": "Novus__Card",
+        "Name": "黃諾博斯卡片"
+    },
+    "382": {
+        "Item_id": "4383",
+        "AegisName": "Novus_Card",
+        "Name": "諾博斯卡片"
+    },
+    "383": {
+        "Item_id": "4384",
+        "AegisName": "Hydro_Card",
+        "Name": "三頭龍卡片"
+    },
+    "384": {
+        "Item_id": "4385",
+        "AegisName": "Dragon_Egg_Card",
+        "Name": "龍蛋卡片"
+    },
+    "385": {
+        "Item_id": "4386",
+        "AegisName": "Detale_Card",
+        "Name": "迪塔勒泰晤勒斯卡片"
+    },
+    "386": {
+        "Item_id": "4387",
+        "AegisName": "Ancient_Mimic_Card",
+        "Name": "狂暴邪惡箱卡片"
+    },
+    "387": {
+        "Item_id": "4388",
+        "AegisName": "Deathword_Card",
+        "Name": "死亡魔書卡片"
+    },
+    "388": {
+        "Item_id": "4389",
+        "AegisName": "Plasma_Card",
+        "Name": "等離子體卡片"
+    },
+    "389": {
+        "Item_id": "4390",
+        "AegisName": "Breeze_Card",
+        "Name": "微風卡片"
+    },
+    "390": {
+        "Item_id": "4391",
+        "AegisName": "Retribution_Card",
+        "Name": "代行刑者卡片"
+    },
+    "391": {
+        "Item_id": "4392",
+        "AegisName": "Observation_Card",
+        "Name": "監視者卡片"
+    },
+    "392": {
+        "Item_id": "4393",
+        "AegisName": "Shelter_Card",
+        "Name": "安息者卡片"
+    },
+    "393": {
+        "Item_id": "4394",
+        "AegisName": "Solace_Card",
+        "Name": "慰勞者卡片"
+    },
+    "394": {
+        "Item_id": "4395",
+        "AegisName": "Tha_Maero_Card",
+        "Name": "達納托斯的悲哀卡片"
+    },
+    "395": {
+        "Item_id": "4396",
+        "AegisName": "Tha_Odium_Card",
+        "Name": "達納托斯的憎恨卡片"
+    },
+    "396": {
+        "Item_id": "4397",
+        "AegisName": "Tha_Despero_Card",
+        "Name": "達納托斯的絕望卡片"
+    },
+    "397": {
+        "Item_id": "4398",
+        "AegisName": "Tha_Dolor_Card",
+        "Name": "達納托斯的苦惱卡片"
+    },
+    "398": {
+        "Item_id": "4399",
+        "AegisName": "Thanatos_Card",
+        "Name": "魔劍士 達納托斯的記憶卡片"
+    },
+    "399": {
+        "Item_id": "4400",
+        "AegisName": "Aliza_Card",
+        "Name": "愛麗莎卡片"
+    },
+    "400": {
+        "Item_id": "4401",
+        "AegisName": "Alicel_Card",
+        "Name": "愛麗瑟卡片"
+    },
+    "401": {
+        "Item_id": "4402",
+        "AegisName": "Aliot_Card",
+        "Name": "愛麗俄卡片"
+    },
+    "402": {
+        "Item_id": "4403",
+        "AegisName": "Kiel_Card",
+        "Name": "齊爾-D-01卡片"
+    },
+    "403": {
+        "Item_id": "4404",
+        "AegisName": "Skogul_Card",
+        "Name": "皮影魔卡片"
+    },
+    "404": {
+        "Item_id": "4405",
+        "AegisName": "Frus_Card",
+        "Name": "彩色皮影魔卡片"
+    },
+    "405": {
+        "Item_id": "4406",
+        "AegisName": "Skeggiold_Card",
+        "Name": "方體惡魔卡片"
+    },
+    "406": {
+        "Item_id": "4407",
+        "AegisName": "Randgris_Card",
+        "Name": "巴基力蘭特克力斯卡片"
+    },
+    "407": {
+        "Item_id": "4408",
+        "AegisName": "Gloom_Under_Night_Card",
+        "Name": "幽暗夢魘卡片"
+    },
+    "408": {
+        "Item_id": "4409",
+        "AegisName": "Agav_Card",
+        "Name": "阿卡布卡片"
+    },
+    "409": {
+        "Item_id": "4410",
+        "AegisName": "Echio_Card",
+        "Name": "埃奇歐卡片"
+    },
+    "410": {
+        "Item_id": "4411",
+        "AegisName": "Vanberk_Card",
+        "Name": "潘貝勒克卡片"
+    },
+    "411": {
+        "Item_id": "4412",
+        "AegisName": "Isilla_Card",
+        "Name": "伊西拉卡片"
+    },
+    "412": {
+        "Item_id": "4413",
+        "AegisName": "Hodremlin_Card",
+        "Name": "異型卡片"
+    },
+    "413": {
+        "Item_id": "4414",
+        "AegisName": "Seeker_Card",
+        "Name": "紅惡魔之眼卡片"
+    },
+    "414": {
+        "Item_id": "4415",
+        "AegisName": "Snowier_Card",
+        "Name": "雪獸卡片"
+    },
+    "415": {
+        "Item_id": "4416",
+        "AegisName": "Siroma_Card",
+        "Name": "小雪獸卡片"
+    },
+    "416": {
+        "Item_id": "4417",
+        "AegisName": "Ice_Titan_Card",
+        "Name": "冰巨人卡片"
+    },
+    "417": {
+        "Item_id": "4418",
+        "AegisName": "Gazeti_Card",
+        "Name": "蓋俄斯提卡片"
+    },
+    "418": {
+        "Item_id": "4419",
+        "AegisName": "Ktullanux_Card",
+        "Name": "水晶龍卡片"
+    },
+    "419": {
+        "Item_id": "4420",
+        "AegisName": "Muscipular_Card",
+        "Name": "吃人草卡片"
+    },
+    "420": {
+        "Item_id": "4421",
+        "AegisName": "Drosera_Card",
+        "Name": "捕蟲草卡片"
+    },
+    "421": {
+        "Item_id": "4422",
+        "AegisName": "Roween_Card",
+        "Name": "土狼卡片"
+    },
+    "422": {
+        "Item_id": "4423",
+        "AegisName": "Galion_Card",
+        "Name": "迦利卡片"
+    },
+    "423": {
+        "Item_id": "4424",
+        "AegisName": "Stapo_Card",
+        "Name": "石頭波利卡片"
+    },
+    "424": {
+        "Item_id": "4425",
+        "AegisName": "Atroce_Card",
+        "Name": "阿特羅斯卡片"
+    },
+    "425": {
+        "Item_id": "4426",
+        "AegisName": "Byorgue_Card",
+        "Name": "漂流浪人卡片"
+    },
+    "426": {
+        "Item_id": "4427",
+        "AegisName": "Sword_Guardian_Card",
+        "Name": "劍士監護人魔物卡片"
+    },
+    "427": {
+        "Item_id": "4428",
+        "AegisName": "Bow_Guardian_Card",
+        "Name": "弓箭手監護人魔物卡片"
+    },
+    "428": {
+        "Item_id": "4429",
+        "AegisName": "Salamander_Card",
+        "Name": "火蜥蜴卡片"
+    },
+    "429": {
+        "Item_id": "4430",
+        "AegisName": "Ifrit_Card",
+        "Name": "伊夫利特卡片"
+    },
+    "430": {
+        "Item_id": "4431",
+        "AegisName": "Kasa_Card",
+        "Name": "火鳥卡片"
+    },
+    "431": {
+        "Item_id": "4432",
+        "AegisName": "Magmaring_Card",
+        "Name": "巖漿波利卡片"
+    },
+    "432": {
+        "Item_id": "4433",
+        "AegisName": "Imp_Card",
+        "Name": "炙焰魔卡片"
+    },
+    "433": {
+        "Item_id": "4434",
+        "AegisName": "Knocker_Card",
+        "Name": "礦坑小精靈卡片"
+    },
+    "434": {
+        "Item_id": "4435",
+        "AegisName": "Zombie_Slaughter_Card",
+        "Name": "屠殺腐屍卡片"
+    },
+    "435": {
+        "Item_id": "4436",
+        "AegisName": "Ragged_Zombie_Card",
+        "Name": "襤褸腐屍卡片"
+    },
+    "436": {
+        "Item_id": "4437",
+        "AegisName": "Hell_Poodle_Card",
+        "Name": "地獄貴賓狗卡片"
+    },
+    "437": {
+        "Item_id": "4438",
+        "AegisName": "Banshee_Card",
+        "Name": "惡耗女妖卡片"
+    },
+    "438": {
+        "Item_id": "4439",
+        "AegisName": "Flame_Skull_Card",
+        "Name": "火焰骷髏頭卡片"
+    },
+    "439": {
+        "Item_id": "4440",
+        "AegisName": "Necromancer_Card",
+        "Name": "行妖術者卡片"
+    },
+    "440": {
+        "Item_id": "4441",
+        "AegisName": "Fallen_Bishop_Card",
+        "Name": "墮落大神官 悉潘卡片"
+    },
+    "441": {
+        "Item_id": "4442",
+        "AegisName": "Tatacho_Card",
+        "Name": "塔塔丘卡片"
+    },
+    "442": {
+        "Item_id": "4443",
+        "AegisName": "Aqua_Elemental_Card",
+        "Name": "水精靈卡片"
+    },
+    "443": {
+        "Item_id": "4444",
+        "AegisName": "Draco_Card",
+        "Name": "暴躁龍卡片"
+    },
+    "444": {
+        "Item_id": "4445",
+        "AegisName": "Luciola_Vespa_Card",
+        "Name": "魯修拉黃蜂卡片"
+    },
+    "445": {
+        "Item_id": "4447",
+        "AegisName": "Centipede_Card",
+        "Name": "變異蜈蚣卡片"
+    },
+    "446": {
+        "Item_id": "4448",
+        "AegisName": "Cornus_Card",
+        "Name": "獨角飛馬卡片"
+    },
+    "447": {
+        "Item_id": "4449",
+        "AegisName": "Dark_Shadow_Card",
+        "Name": "黑影幽靈卡片"
+    },
+    "448": {
+        "Item_id": "4450",
+        "AegisName": "Banshee_Master_Card",
+        "Name": "愛爾蘭女妖首領卡片"
+    },
+    "449": {
+        "Item_id": "4451",
+        "AegisName": "Ant_Buyanne_Card",
+        "Name": "骷髏觸角魔卡片"
+    },
+    "450": {
+        "Item_id": "4452",
+        "AegisName": "Centipede_Larva_Card",
+        "Name": "變異蜈蚣幼蟲卡片"
+    },
+    "451": {
+        "Item_id": "4453",
+        "AegisName": "Hilsrion_Card",
+        "Name": "三角幼獅獸卡片"
+    },
+    "452": {
+        "Item_id": "4454",
+        "AegisName": "Light_Up_Card1",
+        "Name": "巴希莉名片01"
+    },
+    "453": {
+        "Item_id": "4455",
+        "AegisName": "Light_Up_Card2",
+        "Name": "巴希莉名片02"
+    },
+    "454": {
+        "Item_id": "4456",
+        "AegisName": "Nidhogg_Shadow_Card",
+        "Name": "尼德霍格的影子卡片"
+    },
+    "455": {
+        "Item_id": "4457",
+        "AegisName": "Nahtzigger_Card",
+        "Name": "夜勝魔卡片"
+    },
+    "456": {
+        "Item_id": "4458",
+        "AegisName": "Duneirre_Card",
+        "Name": "杜尼爾卡片"
+    },
+    "457": {
+        "Item_id": "4459",
+        "AegisName": "Lata_Card",
+        "Name": "刷尾負鼠卡片"
+    },
+    "458": {
+        "Item_id": "4460",
+        "AegisName": "Ringco_Card",
+        "Name": "靈克卡片"
+    },
+    "459": {
+        "Item_id": "4461",
+        "AegisName": "Pillar_Card",
+        "Name": "妣拉卡片"
+    },
+    "460": {
+        "Item_id": "4462",
+        "AegisName": "Hardrock_Mommos_Card",
+        "Name": "硬石猛瑪卡片"
+    },
+    "461": {
+        "Item_id": "4463",
+        "AegisName": "Tendrilion_Card",
+        "Name": "三角狂獅獸卡片"
+    },
+    "462": {
+        "Item_id": "4464",
+        "AegisName": "Aunoe_Card",
+        "Name": "阿吾諾耶卡片"
+    },
+    "463": {
+        "Item_id": "4465",
+        "AegisName": "Panat_Card",
+        "Name": "法恩特卡片"
+    },
+    "464": {
+        "Item_id": "4466",
+        "AegisName": "Beholder_Master_Card",
+        "Name": "眼魔首領卡片"
+    },
+    "465": {
+        "Item_id": "4467",
+        "AegisName": "Heavy_Metaling_Card",
+        "Name": "重金屬波利卡片"
+    },
+    "466": {
+        "Item_id": "4468",
+        "AegisName": "Pinguicula_Dark_Card",
+        "Name": "黑暗捕蟲堇妖卡片"
+    },
+    "467": {
+        "Item_id": "4469",
+        "AegisName": "Naga_Card",
+        "Name": "那迦卡片"
+    },
+    "468": {
+        "Item_id": "4470",
+        "AegisName": "Nepenthes_Card",
+        "Name": "豬籠草卡片"
+    },
+    "469": {
+        "Item_id": "4471",
+        "AegisName": "Egg_Of_Draco_Card",
+        "Name": "暴躁龍蛋卡片"
+    },
+    "470": {
+        "Item_id": "4472",
+        "AegisName": "Bradium_Goram_Card",
+        "Name": "魔力之石巨人卡片"
+    },
+    "471": {
+        "Item_id": "4473",
+        "AegisName": "Ancient_Tree_Card",
+        "Name": "異種神木怪卡片"
+    },
+    "472": {
+        "Item_id": "4474",
+        "AegisName": "Jakudam_Card",
+        "Name": "扎古丹卡片"
+    },
+    "473": {
+        "Item_id": "4475",
+        "AegisName": "Cobalt_Mineral_Card",
+        "Name": "惡精靈礦石卡片"
+    },
+    "474": {
+        "Item_id": "4476",
+        "AegisName": "Pinguicula_Card",
+        "Name": "捕蟲堇妖卡片"
+    },
+    "475": {
+        "Item_id": "4477",
+        "AegisName": "Hell_Apocalips_Card",
+        "Name": "地獄阿修羅機械戰士卡片"
+    },
+    "476": {
+        "Item_id": "4478",
+        "AegisName": "Light_Up_Card3",
+        "Name": "巴希莉名片03"
+    },
+    "477": {
+        "Item_id": "4479",
+        "AegisName": "Light_Up_Card4",
+        "Name": "巴希莉名片04"
+    },
+    "478": {
+        "Item_id": "4480",
+        "AegisName": "Sealed_Kiel_Card",
+        "Name": "封印齊爾-D-01卡片"
+    },
+    "479": {
+        "Item_id": "4481",
+        "AegisName": "Sealed_Ktullanux_Card",
+        "Name": "封印水晶龍卡片"
+    },
+    "480": {
+        "Item_id": "4482",
+        "AegisName": "Sealed_B_Ygnizem_Card",
+        "Name": "封印闇●劍士賽尼亞卡片"
+    },
+    "481": {
+        "Item_id": "4483",
+        "AegisName": "Sealed_Dracula_Card",
+        "Name": "封印德古拉男爵卡片"
+    },
+    "482": {
+        "Item_id": "4484",
+        "AegisName": "Sealed_Mistress_Card",
+        "Name": "封印蜂后卡片"
+    },
+    "483": {
+        "Item_id": "4485",
+        "AegisName": "Sealed_Gloom_Card",
+        "Name": "封印幽暗夢魘卡片"
+    },
+    "484": {
+        "Item_id": "4486",
+        "AegisName": "Sealed_Berz_Card",
+        "Name": "封印詛咒蠅王卡片"
+    },
+    "485": {
+        "Item_id": "4487",
+        "AegisName": "Sealed_Ifrit_Card",
+        "Name": "封印伊夫利特卡片"
+    },
+    "486": {
+        "Item_id": "4488",
+        "AegisName": "Sealed_D_Lord_Card",
+        "Name": "封印黑暗之王卡片"
+    },
+    "487": {
+        "Item_id": "4489",
+        "AegisName": "Sealed_Pharaoh_Card",
+        "Name": "封印法老王卡片"
+    },
+    "488": {
+        "Item_id": "4490",
+        "AegisName": "Sealed_M_Flower_Card",
+        "Name": "封印月夜貓卡片"
+    },
+    "489": {
+        "Item_id": "4491",
+        "AegisName": "Sealed_B_Shecil_Card",
+        "Name": "封印闇●神射手 迪文卡片"
+    },
+    "490": {
+        "Item_id": "4492",
+        "AegisName": "Sealed_Orc_Hero_Card",
+        "Name": "封印獸人英雄卡片"
+    },
+    "491": {
+        "Item_id": "4493",
+        "AegisName": "Sealed_Tao_Card",
+        "Name": "封印塔奧群卡卡片"
+    },
+    "492": {
+        "Item_id": "4494",
+        "AegisName": "Sealed_TurtleG_Card",
+        "Name": "封印烏龜將軍卡片"
+    },
+    "493": {
+        "Item_id": "4495",
+        "AegisName": "Sealed_Amon_Ra_Card",
+        "Name": "封印古埃及王卡片"
+    },
+    "494": {
+        "Item_id": "4496",
+        "AegisName": "Sealed_Drake_Card",
+        "Name": "Sealed Drake Card"
+    },
+    "495": {
+        "Item_id": "4497",
+        "AegisName": "Sealed_Knight_WS_Card",
+        "Name": "封印冰暴騎士卡片"
+    },
+    "496": {
+        "Item_id": "4498",
+        "AegisName": "Sealed_Lady_Tanee_Card",
+        "Name": "封印嗒妮小姐卡片"
+    },
+    "497": {
+        "Item_id": "4499",
+        "AegisName": "Sealed_Samurai_Card",
+        "Name": "封印元靈武士卡片"
+    },
+    "498": {
+        "Item_id": "4500",
+        "AegisName": "Sealed_Orc_Load_Card",
+        "Name": "封印獸人酋長卡片"
+    },
+    "499": {
+        "Item_id": "4501",
+        "AegisName": "Sealed_B_Magaleta_Card",
+        "Name": "封印闇●神官 瑪嘉雷特卡片"
+    },
+    "500": {
+        "Item_id": "4502",
+        "AegisName": "Sealed_B_Harword_Card",
+        "Name": "封印闇●神工匠 哈沃得卡片"
+    },
+    "501": {
+        "Item_id": "4503",
+        "AegisName": "Sealed_Apocalips_H_Card",
+        "Name": "封印貝思波卡片"
+    },
+    "502": {
+        "Item_id": "4504",
+        "AegisName": "Sealed_Eddga_Card",
+        "Name": "封印虎王卡片"
+    },
+    "503": {
+        "Item_id": "4505",
+        "AegisName": "Scaraba_Card",
+        "Name": "一般甲蟲卡片"
+    },
+    "504": {
+        "Item_id": "4506",
+        "AegisName": "Dolomedes_Card",
+        "Name": "狡蛛卡片"
+    },
+    "505": {
+        "Item_id": "4507",
+        "AegisName": "Q_Scaraba_Card",
+        "Name": "一般女王甲蟲卡片"
+    },
+    "506": {
+        "Item_id": "4508",
+        "AegisName": "Gold_Scaraba_Card",
+        "Name": "惡夢甲蟲卡片"
+    },
+    "507": {
+        "Item_id": "4509",
+        "AegisName": "Gold_Q_Scaraba_Card",
+        "Name": "惡夢女王甲蟲卡片"
+    },
+    "508": {
+        "Item_id": "4510",
+        "AegisName": "Miming_Card",
+        "Name": "異形毛毛怪卡片"
+    },
+    "509": {
+        "Item_id": "4511",
+        "AegisName": "Little_Fatum_Card",
+        "Name": "玩偶魔妖卡片"
+    },
+    "510": {
+        "Item_id": "4512",
+        "AegisName": "Parus_Card",
+        "Name": "惡魔啄木鳥卡片"
+    },
+    "511": {
+        "Item_id": "4513",
+        "AegisName": "Angra_Mantis_Card",
+        "Name": "瘋狂螳螂卡片"
+    },
+    "512": {
+        "Item_id": "4514",
+        "AegisName": "Pom_Spider_Card",
+        "Name": "食人蜘蛛卡片"
+    },
+    "513": {
+        "Item_id": "4515",
+        "AegisName": "Alnoldi_Card",
+        "Name": "泰坦魔芋花卡片"
+    },
+    "514": {
+        "Item_id": "4516",
+        "AegisName": "Comodo_Card",
+        "Name": "科摩多龍卡片"
+    },
+    "515": {
+        "Item_id": "4517",
+        "AegisName": "Cendrawasih_Card",
+        "Name": "天堂鳥卡片"
+    },
+    "516": {
+        "Item_id": "4518",
+        "AegisName": "Banaspaty_Card",
+        "Name": "巴拿斯帕堤卡片"
+    },
+    "517": {
+        "Item_id": "4519",
+        "AegisName": "Butoijo_Card",
+        "Name": "布托異竺卡片"
+    },
+    "518": {
+        "Item_id": "4520",
+        "AegisName": "Leak_Card",
+        "Name": "讓特卡片"
+    },
+    "519": {
+        "Item_id": "4521",
+        "AegisName": "Sedora_Card",
+        "Name": "賽杜拉卡片"
+    },
+    "520": {
+        "Item_id": "4522",
+        "AegisName": "Sropho_Card",
+        "Name": "深海電鰻卡片"
+    },
+    "521": {
+        "Item_id": "4523",
+        "AegisName": "Pot_Dofle_Card",
+        "Name": "醬缸章魚卡片"
+    },
+    "522": {
+        "Item_id": "4524",
+        "AegisName": "King_Dramoh_Card",
+        "Name": "大腳龍蝦卡片"
+    },
+    "523": {
+        "Item_id": "4525",
+        "AegisName": "Kraken_Card",
+        "Name": "魔鬼大烏賊卡片"
+    },
+    "524": {
+        "Item_id": "4526",
+        "AegisName": "Odd_Coelacanth_Card",
+        "Name": "古怪腔棘魚卡片"
+    },
+    "525": {
+        "Item_id": "4527",
+        "AegisName": "Black_Coelacanth_Card",
+        "Name": "黑暗腔棘魚卡片"
+    },
+    "526": {
+        "Item_id": "4528",
+        "AegisName": "Mutant_Coelacanth_Card",
+        "Name": "變種腔棘魚卡片"
+    },
+    "527": {
+        "Item_id": "4529",
+        "AegisName": "Cruel_Coelacanth_Card",
+        "Name": "暴力腔棘魚卡片"
+    },
+    "528": {
+        "Item_id": "4530",
+        "AegisName": "Siorava_Card",
+        "Name": "胖胖波利卡片"
+    },
+    "529": {
+        "Item_id": "4531",
+        "AegisName": "Red_Eruma_Card",
+        "Name": "紅海星卡片"
+    },
+    "530": {
+        "Item_id": "4532",
+        "AegisName": "Wild_Rider_Card",
+        "Name": "野貓騎士卡片"
+    },
+    "531": {
+        "Item_id": "4533",
+        "AegisName": "Mini_Octopus_Card",
+        "Name": "章魚小弟卡片"
+    },
+    "532": {
+        "Item_id": "4534",
+        "AegisName": "Giant_Octopus_Card",
+        "Name": "邪惡章魚卡片"
+    },
+    "533": {
+        "Item_id": "4535",
+        "AegisName": "Sealed_Rand_Card",
+        "Name": "封印巴基力 蘭特克力斯卡片"
+    },
+    "534": {
+        "Item_id": "4536",
+        "AegisName": "Sealed_Atroce_Card",
+        "Name": "封印阿特羅斯卡片"
+    },
+    "535": {
+        "Item_id": "4537",
+        "AegisName": "Sealed_Phreeoni_Card",
+        "Name": "封印皮里恩卡片"
+    },
+    "536": {
+        "Item_id": "4538",
+        "AegisName": "Sealed_Bacsojin_Card",
+        "Name": "封印白素貞卡片"
+    },
+    "537": {
+        "Item_id": "4539",
+        "AegisName": "Sealed_F_Bishop_Card",
+        "Name": "封印墮落大神官 悉潘卡片"
+    },
+    "538": {
+        "Item_id": "4540",
+        "AegisName": "SLD_Lord_Of_Death_Card",
+        "Name": "封印死靈騎士卡片"
+    },
+    "539": {
+        "Item_id": "4541",
+        "AegisName": "SLD_B_Katrinn_Card",
+        "Name": "封印闇●超魔導師 凱特莉娜卡片"
+    },
+    "540": {
+        "Item_id": "4542",
+        "AegisName": "SLD_Detale_Card",
+        "Name": "封印迪塔勒泰晤勒斯卡片"
+    },
+    "541": {
+        "Item_id": "4543",
+        "AegisName": "SLD_Garm_Card",
+        "Name": "封印卡崙卡片"
+    },
+    "542": {
+        "Item_id": "4544",
+        "AegisName": "SLD_Dark_Snake_Card",
+        "Name": "封印墨蛇君卡片"
+    },
+    "543": {
+        "Item_id": "4545",
+        "AegisName": "Novice_Poring_Card",
+        "Name": "寶貝波利卡片"
+    },
+    "544": {
+        "Item_id": "4546",
+        "AegisName": "Light_Up_Card5",
+        "Name": "偽巴基力卡片"
+    },
+    "545": {
+        "Item_id": "4547",
+        "AegisName": "Upd_Byorgue_Card",
+        "Name": "強化狂徒卡片"
+    },
+    "546": {
+        "Item_id": "4548",
+        "AegisName": "Upd_Salamander_Card",
+        "Name": "強化熔巖蜥蜴卡片"
+    },
+    "547": {
+        "Item_id": "4549",
+        "AegisName": "Upd_Maya_Puple_Card",
+        "Name": "強化蟻后卡片"
+    },
+    "548": {
+        "Item_id": "4550",
+        "AegisName": "Upd_Bow_Guardian_Card",
+        "Name": "強化機械狙擊手卡片"
+    },
+    "549": {
+        "Item_id": "4551",
+        "AegisName": "Upd_Necromancer_Card",
+        "Name": "強化亡靈巫師卡片"
+    },
+    "550": {
+        "Item_id": "4552",
+        "AegisName": "Manny_Card",
+        "Name": "蠻尼卡片"
+    },
+    "551": {
+        "Item_id": "4553",
+        "AegisName": "Sid_Card",
+        "Name": "喜德卡片"
+    },
+    "552": {
+        "Item_id": "4554",
+        "AegisName": "Diego_Card",
+        "Name": "迪亞哥卡片"
+    },
+    "553": {
+        "Item_id": "4555",
+        "AegisName": "Scrat_Card",
+        "Name": "鼠奎特卡片"
+    },
+    "554": {
+        "Item_id": "4556",
+        "AegisName": "Fenrir_Card",
+        "Name": "芬里厄卡片"
+    },
+    "555": {
+        "Item_id": "4557",
+        "AegisName": "Fenrir_Card_",
+        "Name": "弱化的芬里厄卡片"
+    },
+    "556": {
+        "Item_id": "4558",
+        "AegisName": "Woodie_Card",
+        "Name": "小樹椿卡片"
+    },
+    "557": {
+        "Item_id": "4559",
+        "AegisName": "M_Morocc_Card",
+        "Name": "魔神夢羅克卡片"
+    },
+    "558": {
+        "Item_id": "4560",
+        "AegisName": "Clown_Card",
+        "Name": "闇●搞笑藝人 阿弗克希奧卡片"
+    },
+    "559": {
+        "Item_id": "4561",
+        "AegisName": "Professor_Card",
+        "Name": "闇●智者 希莉亞卡片"
+    },
+    "560": {
+        "Item_id": "4562",
+        "AegisName": "Champion_Card",
+        "Name": "闇●武術宗師 陳卡片"
+    },
+    "561": {
+        "Item_id": "4563",
+        "AegisName": "Creator_Card",
+        "Name": "闇●創造者 弗拉梅爾卡片"
+    },
+    "562": {
+        "Item_id": "4564",
+        "AegisName": "Stalker_Card",
+        "Name": "闇●神行太保 格蒂卡片"
+    },
+    "563": {
+        "Item_id": "4565",
+        "AegisName": "Paladin_Card",
+        "Name": "闇●聖殿十字軍 蘭德爾卡片"
+    },
+    "564": {
+        "Item_id": "4566",
+        "AegisName": "Gypsy_Card",
+        "Name": "闇●冷艷舞姬 特蘭提妮卡片"
+    },
+    "565": {
+        "Item_id": "4567",
+        "AegisName": "Alphoccio_Card",
+        "Name": "闇●搞笑藝人卡片"
+    },
+    "566": {
+        "Item_id": "4568",
+        "AegisName": "Ceila_Card",
+        "Name": "闇●智者卡片"
+    },
+    "567": {
+        "Item_id": "4569",
+        "AegisName": "Chen_Card",
+        "Name": "闇●武術宗師卡片"
+    },
+    "568": {
+        "Item_id": "4570",
+        "AegisName": "Flamel_Card",
+        "Name": "闇●創造者卡片"
+    },
+    "569": {
+        "Item_id": "4571",
+        "AegisName": "Gertie_Card",
+        "Name": "闇●神行太保卡片"
+    },
+    "570": {
+        "Item_id": "4572",
+        "AegisName": "Randel_Card",
+        "Name": "闇●聖殿十字軍卡片"
+    },
+    "571": {
+        "Item_id": "4573",
+        "AegisName": "Trentini_Card",
+        "Name": "闇●冷艷舞姬卡片"
+    },
+    "572": {
+        "Item_id": "4574",
+        "AegisName": "Daehyon_Card",
+        "Name": "將軍大賢卡片"
+    },
+    "573": {
+        "Item_id": "4575",
+        "AegisName": "Soheon_Card",
+        "Name": "衛士小賢卡片"
+    },
+    "574": {
+        "Item_id": "4576",
+        "AegisName": "Gioia_Card",
+        "Name": "喬伊亞卡片"
+    },
+    "575": {
+        "Item_id": "4577",
+        "AegisName": "Elvira_Card",
+        "Name": "埃維亞卡片"
+    },
+    "576": {
+        "Item_id": "4578",
+        "AegisName": "Pyuriel_Card",
+        "Name": "淘汰者 傅立葉卡片"
+    },
+    "577": {
+        "Item_id": "4579",
+        "AegisName": "Lora_Card",
+        "Name": "女戰士 蘿拉卡片"
+    },
+    "578": {
+        "Item_id": "4580",
+        "AegisName": "Kades_Card",
+        "Name": "亡靈的守護者 卡德斯卡片"
+    },
+    "579": {
+        "Item_id": "4581",
+        "AegisName": "Rudo_Card",
+        "Name": "魯盜卡片"
+    },
+    "580": {
+        "Item_id": "4582",
+        "AegisName": "Bungisngis_Card",
+        "Name": "獨眼怪卡片"
+    },
+    "581": {
+        "Item_id": "4583",
+        "AegisName": "Engkanto_Card",
+        "Name": "昂坎圖卡片"
+    },
+    "582": {
+        "Item_id": "4584",
+        "AegisName": "Manananggal_Card",
+        "Name": "瑪那能革卡片"
+    },
+    "583": {
+        "Item_id": "4585",
+        "AegisName": "Mangkukulam_Card",
+        "Name": "猛酷巫師卡片"
+    },
+    "584": {
+        "Item_id": "4586",
+        "AegisName": "Tikbalang_Card",
+        "Name": "邪魔馬卡片"
+    },
+    "585": {
+        "Item_id": "4587",
+        "AegisName": "Tiyanak_Card",
+        "Name": "惡魔嬰兒卡片"
+    },
+    "586": {
+        "Item_id": "4588",
+        "AegisName": "Wakwak_Card",
+        "Name": "食屍鬼卡片"
+    },
+    "587": {
+        "Item_id": "4589",
+        "AegisName": "Jejeling_Card",
+        "Name": "食人波利卡片"
+    },
+    "588": {
+        "Item_id": "4590",
+        "AegisName": "Bangungot_Card",
+        "Name": "噩夢死神卡片"
+    },
+    "589": {
+        "Item_id": "4591",
+        "AegisName": "Bakonawa_Card",
+        "Name": "食月暴龍卡片"
+    },
+    "590": {
+        "Item_id": "4592",
+        "AegisName": "Buwaya_Card",
+        "Name": "寶箱巨鱷卡片"
+    },
+    "591": {
+        "Item_id": "4593",
+        "AegisName": "Menblatt_Card",
+        "Name": "花妖精卡片"
+    },
+    "592": {
+        "Item_id": "4594",
+        "AegisName": "Petal_Card",
+        "Name": "花瓣怪蟲卡片"
+    },
+    "593": {
+        "Item_id": "4595",
+        "AegisName": "Cenere_Card",
+        "Name": "惡靈之霧卡片"
+    },
+    "594": {
+        "Item_id": "4596",
+        "AegisName": "AntiqueBook_Card",
+        "Name": "古靈精怪書卡片"
+    },
+    "595": {
+        "Item_id": "4597",
+        "AegisName": "LichternB_Card",
+        "Name": "元素鬼火(藍)卡片"
+    },
+    "596": {
+        "Item_id": "4598",
+        "AegisName": "LichternY_Card",
+        "Name": "元素鬼火(綠)卡片"
+    },
+    "597": {
+        "Item_id": "4599",
+        "AegisName": "LichternR_Card",
+        "Name": "元素鬼火(紅)卡片"
+    },
+    "598": {
+        "Item_id": "4600",
+        "AegisName": "LichternG_Card",
+        "Name": "元素鬼火(褐)卡片"
+    },
+    "599": {
+        "Item_id": "4601",
+        "AegisName": "Amdarais_Card",
+        "Name": "闇答萊屍卡片"
+    },
+    "600": {
+        "Item_id": "4602",
+        "AegisName": "AmdaraisH_Card",
+        "Name": "覺醒的暗闇萊屍卡片"
+    },
+    "601": {
+        "Item_id": "4603",
+        "AegisName": "CorruptionRoot_Card",
+        "Name": "墮落根莖卡片"
+    },
+    "602": {
+        "Item_id": "4604",
+        "AegisName": "CorruptionRootH_Card",
+        "Name": "覺醒墮落根莖卡片"
+    },
+    "603": {
+        "Item_id": "4605",
+        "AegisName": "UndeadKnightM_Card",
+        "Name": "痛苦騎士卡片"
+    },
+    "604": {
+        "Item_id": "4606",
+        "AegisName": "UndeadKnightF_Card",
+        "Name": "怨恨騎士卡片"
+    },
+    "605": {
+        "Item_id": "4607",
+        "AegisName": "FaithfulManager_Card",
+        "Name": "頑靈惡童卡片"
+    },
+    "606": {
+        "Item_id": "4608",
+        "AegisName": "White_Knightage_Card",
+        "Name": "白色騎士團卡片"
+    },
+    "607": {
+        "Item_id": "4609",
+        "AegisName": "Khaliz_Knightage_Card",
+        "Name": "卡利斯格騎士團卡片"
+    },
+    "608": {
+        "Item_id": "4610",
+        "AegisName": "Sarah_Card",
+        "Name": "莎拉卡片"
+    },
+    "609": {
+        "Item_id": "4611",
+        "AegisName": "ROGirlsAmis_Card",
+        "Name": "RO女孩卡片-Amis"
+    },
+    "610": {
+        "Item_id": "4623",
+        "AegisName": "Adventures_Card",
+        "Name": "11週年紀念卡片"
+    },
+    "611": {
+        "Item_id": "4625",
+        "AegisName": "Timeholder_Card",
+        "Name": "時間支配者卡片"
+    },
+    "612": {
+        "Item_id": "4626",
+        "AegisName": "Big_Ben_Card",
+        "Name": "大笨鐘卡片"
+    },
+    "613": {
+        "Item_id": "4627",
+        "AegisName": "Big_Bell_Card",
+        "Name": "大鐘怪卡片"
+    },
+    "614": {
+        "Item_id": "4628",
+        "AegisName": "Neo_Punk_Card",
+        "Name": "惡靈朽魔卡片"
+    },
+    "615": {
+        "Item_id": "4629",
+        "AegisName": "Arc_Elder_Card",
+        "Name": "邪靈長老卡片"
+    },
+    "616": {
+        "Item_id": "4630",
+        "AegisName": "Time_Keeper_Card",
+        "Name": "時光守護者卡片"
+    },
+    "617": {
+        "Item_id": "4631",
+        "AegisName": "Owl_Viscount_Card",
+        "Name": "鴞裊子爵卡片"
+    },
+    "618": {
+        "Item_id": "4632",
+        "AegisName": "Owl_Marquees_Card",
+        "Name": "鴞裊侯爵卡片"
+    },
+    "619": {
+        "Item_id": "4633",
+        "AegisName": "P_Archer_Skeleton_Card",
+        "Name": "強化邪骸弓箭手卡片"
+    },
+    "620": {
+        "Item_id": "4634",
+        "AegisName": "P_Soldier_Skeleton_Card",
+        "Name": "強化邪骸士兵卡片"
+    },
+    "621": {
+        "Item_id": "4635",
+        "AegisName": "P_Amdarais_Card",
+        "Name": "強化闇答萊屍卡片"
+    },
+    "622": {
+        "Item_id": "4636",
+        "AegisName": "Bijou_Card",
+        "Name": "畢尤卡片"
+    },
+    "623": {
+        "Item_id": "4637",
+        "AegisName": "Immotal_Corps_Card",
+        "Name": "不死軍團卡片"
+    },
+    "624": {
+        "Item_id": "4638",
+        "AegisName": "Watcher_Card",
+        "Name": "觀察者卡片"
+    },
+    "625": {
+        "Item_id": "4639",
+        "AegisName": "Tappy_Card",
+        "Name": "塔皮卡片"
+    },
+    "626": {
+        "Item_id": "4640",
+        "AegisName": "Frozenwolf_Card",
+        "Name": "冰狼卡片"
+    },
+    "627": {
+        "Item_id": "4641",
+        "AegisName": "Zombie_Guard_Card",
+        "Name": "殭屍警衛卡片"
+    },
+    "628": {
+        "Item_id": "4642",
+        "AegisName": "IFN_Toad_Card",
+        "Name": "無限蛙王卡片"
+    },
+    "629": {
+        "Item_id": "4643",
+        "AegisName": "IFN_V_Wolf_Card",
+        "Name": "無限流浪之狼卡片"
+    },
+    "630": {
+        "Item_id": "4644",
+        "AegisName": "IFN_Vocal_Card",
+        "Name": "無限蝗蟲之王卡片"
+    },
+    "631": {
+        "Item_id": "4645",
+        "AegisName": "IFN_Eclipse_Card",
+        "Name": "無限藍瘋兔卡片"
+    },
+    "632": {
+        "Item_id": "4646",
+        "AegisName": "IFN_Chimera_Card",
+        "Name": "無限凱美拉卡片"
+    },
+    "633": {
+        "Item_id": "4647",
+        "AegisName": "IFN_Osiris_Card",
+        "Name": "無限俄塞里斯卡片"
+    },
+    "634": {
+        "Item_id": "4648",
+        "AegisName": "IFN_Eddga_Card",
+        "Name": "無限虎王卡片"
+    },
+    "635": {
+        "Item_id": "4649",
+        "AegisName": "IFN_Phreeoni_Card",
+        "Name": "無限皮里恩卡片"
+    },
+    "636": {
+        "Item_id": "4650",
+        "AegisName": "IFN_OrcHero_Card",
+        "Name": "無限獸人英雄卡片"
+    },
+    "637": {
+        "Item_id": "4651",
+        "AegisName": "IFN_Tao_Gunka_Card",
+        "Name": "無限塔奧群卡卡片"
+    },
+    "638": {
+        "Item_id": "4652",
+        "AegisName": "Grave_Amon_Ra_Card",
+        "Name": "滅絕古埃及王卡片"
+    },
+    "639": {
+        "Item_id": "4653",
+        "AegisName": "Grave_Arclouse_Card",
+        "Name": "滅絕卷甲蟲卡片"
+    },
+    "640": {
+        "Item_id": "4654",
+        "AegisName": "Grave_Mimic_Card",
+        "Name": "滅絕邪惡箱卡片"
+    },
+    "641": {
+        "Item_id": "4655",
+        "AegisName": "Grave_Minorous_Card",
+        "Name": "滅絕米洛斯卡片"
+    },
+    "642": {
+        "Item_id": "4656",
+        "AegisName": "Grave_Mummy_Card",
+        "Name": "滅絕木乃伊卡片"
+    },
+    "643": {
+        "Item_id": "4657",
+        "AegisName": "Grave_A_Mummy_Card",
+        "Name": "滅絕狂暴木乃伊卡片"
+    },
+    "644": {
+        "Item_id": "4658",
+        "AegisName": "Grave_Verit_Card",
+        "Name": "滅絕木乃伊犬卡片"
+    },
+    "645": {
+        "Item_id": "4659",
+        "AegisName": "Eggring_Card",
+        "Name": "蛋黃波利卡片"
+    },
+    "646": {
+        "Item_id": "4660",
+        "AegisName": "Basilisk1_Card",
+        "Name": "偵查巴西利斯克卡片"
+    },
+    "647": {
+        "Item_id": "4661",
+        "AegisName": "Basilisk2_Card",
+        "Name": "突擊巴西利斯克卡片"
+    },
+    "648": {
+        "Item_id": "4662",
+        "AegisName": "Big_Eggring_Card",
+        "Name": "大型蛋黃波利卡片"
+    },
+    "649": {
+        "Item_id": "4663",
+        "AegisName": "Leaf_Lunatic_Card",
+        "Name": "群葉瘋兔卡片"
+    },
+    "650": {
+        "Item_id": "4664",
+        "AegisName": "Grass_Fabre_Card",
+        "Name": "草地綠棉蟲卡片"
+    },
+    "651": {
+        "Item_id": "4665",
+        "AegisName": "Wild_Honet_Card",
+        "Name": "狂野蜂兵卡片"
+    },
+    "652": {
+        "Item_id": "4666",
+        "AegisName": "Sw_Roda_Frog_Card",
+        "Name": "甜心羅達蛙卡片"
+    },
+    "653": {
+        "Item_id": "4667",
+        "AegisName": "Hunter_Wolf_Card",
+        "Name": "狩獵沙漠之狼卡片"
+    },
+    "654": {
+        "Item_id": "4668",
+        "AegisName": "Trance_Spore_Card",
+        "Name": "變形魔菇卡片"
+    },
+    "655": {
+        "Item_id": "4669",
+        "AegisName": "Ju_Mandragora_Card",
+        "Name": "叢林曼陀羅魔花卡片"
+    },
+    "656": {
+        "Item_id": "4670",
+        "AegisName": "Fru_Pom_Spider_Card",
+        "Name": "果實食人蜘蛛卡片"
+    },
+    "657": {
+        "Item_id": "4671",
+        "AegisName": "Sorcerer_Card",
+        "Name": "闇●妖術師 西里亞卡片"
+    },
+    "658": {
+        "Item_id": "4672",
+        "AegisName": "Sura_Card",
+        "Name": "闇●修羅 陳理歐卡片"
+    },
+    "659": {
+        "Item_id": "4673",
+        "AegisName": "Minstrel_Card",
+        "Name": "闇●宮廷樂師 雅歐帕奇爾卡片"
+    },
+    "660": {
+        "Item_id": "4674",
+        "AegisName": "GuillotineCross_Card",
+        "Name": "闇●十字斬首者 艾勒梅斯卡片"
+    },
+    "661": {
+        "Item_id": "4675",
+        "AegisName": "Archbishop_Card",
+        "Name": "闇●大主教 瑪嘉雷特卡片"
+    },
+    "662": {
+        "Item_id": "4676",
+        "AegisName": "Ranger_Card",
+        "Name": "闇●遊俠 迪文卡片"
+    },
+    "663": {
+        "Item_id": "4677",
+        "AegisName": "Mechanic_Card",
+        "Name": "闇●機械工匠 哈沃得卡片"
+    },
+    "664": {
+        "Item_id": "4678",
+        "AegisName": "Warlock_Card",
+        "Name": "闇●咒術師 凱特莉娜卡片"
+    },
+    "665": {
+        "Item_id": "4679",
+        "AegisName": "RuneKnight_Card",
+        "Name": "闇●盧恩騎士 賽依連卡片"
+    },
+    "666": {
+        "Item_id": "4680",
+        "AegisName": "RoyalGuard_Card",
+        "Name": "闇●皇家禁衛隊 蘭達卡片"
+    },
+    "667": {
+        "Item_id": "4681",
+        "AegisName": "Genetic_Card",
+        "Name": "闇●基因學者 普拉梅姆卡片"
+    },
+    "668": {
+        "Item_id": "4682",
+        "AegisName": "ShadowChaser_Card",
+        "Name": "闇●魅影追蹤者 科迪卡片"
+    },
+    "669": {
+        "Item_id": "4683",
+        "AegisName": "Wanderer_Card",
+        "Name": "闇●浪姬舞者 特蘭提尼卡片"
+    },
+    "670": {
+        "Item_id": "4684",
+        "AegisName": "Real_Eremes_Card",
+        "Name": "真●十字斬首者卡片"
+    },
+    "671": {
+        "Item_id": "4685",
+        "AegisName": "Real_Magaleta_Card",
+        "Name": "真●大主教卡片"
+    },
+    "672": {
+        "Item_id": "4686",
+        "AegisName": "Real_Katrinn_Card",
+        "Name": "真●咒術師卡片"
+    },
+    "673": {
+        "Item_id": "4687",
+        "AegisName": "Real_Shecil_Card",
+        "Name": "真●遊俠卡片"
+    },
+    "674": {
+        "Item_id": "4688",
+        "AegisName": "Real_Harword_Card",
+        "Name": "真●機械工匠卡片"
+    },
+    "675": {
+        "Item_id": "4689",
+        "AegisName": "Real_Seyren_Card",
+        "Name": "真●盧恩騎士卡片"
+    },
+    "676": {
+        "Item_id": "4690",
+        "AegisName": "Real_Randel_Card",
+        "Name": "真●皇家禁衛隊卡片"
+    },
+    "677": {
+        "Item_id": "4691",
+        "AegisName": "Real_Flamel_Card",
+        "Name": "真●基因學者卡片"
+    },
+    "678": {
+        "Item_id": "4692",
+        "AegisName": "Real_Ceila_Card",
+        "Name": "真●妖術師卡片"
+    },
+    "679": {
+        "Item_id": "4693",
+        "AegisName": "Real_Chen_Card",
+        "Name": "真●修羅卡片"
+    },
+    "680": {
+        "Item_id": "4694",
+        "AegisName": "Real_Gertie_Card",
+        "Name": "真●魅影追蹤者卡片"
+    },
+    "681": {
+        "Item_id": "4695",
+        "AegisName": "Real_Trentini_Card",
+        "Name": "真●浪跡舞者卡片"
+    },
+    "682": {
+        "Item_id": "4696",
+        "AegisName": "Real_Alphoccio_Card",
+        "Name": "真●宮廷樂師卡片"
+    },
+    "683": {
+        "Item_id": "4697",
+        "AegisName": "Charleston_Card",
+        "Name": "查理斯頓卡片"
+    },
+    "684": {
+        "Item_id": "4698",
+        "AegisName": "Step_Card",
+        "Name": "變異晶片卡片"
+    },
+    "685": {
+        "Item_id": "4699",
+        "AegisName": "Rock_Step_Card",
+        "Name": "變異機器人卡片"
+    },
+    "686": {
+        "Item_id": "27002",
+        "AegisName": "XM_Mystcase_Card_J",
+        "Name": "Horror of Xmas Giftcase Card"
+    },
+    "687": {
+        "Item_id": "27007",
+        "AegisName": "XM_Celine_Kimi_Card_J",
+        "Name": "席琳基米卡片(JRO)"
+    },
+    "688": {
+        "Item_id": "27008",
+        "AegisName": "AmdaraisH_Card_J",
+        "Name": "魔眼的暗達萊斯卡片"
+    },
+    "689": {
+        "Item_id": "27009",
+        "AegisName": "CorruptionRootH_Card_J",
+        "Name": "Realized Corruption Root Card"
+    },
+    "690": {
+        "Item_id": "27012",
+        "AegisName": "Kick_Step_Card",
+        "Name": "智慧變異晶片卡片"
+    },
+    "691": {
+        "Item_id": "27013",
+        "AegisName": "KickAndKick_Card",
+        "Name": "霹靂機器人卡片"
+    },
+    "692": {
+        "Item_id": "27014",
+        "AegisName": "GreenCenere_Card",
+        "Name": "綠惡靈之霧卡片"
+    },
+    "693": {
+        "Item_id": "27015",
+        "AegisName": "RepairRobot_T_Card",
+        "Name": "修復機器人卡片"
+    },
+    "694": {
+        "Item_id": "27016",
+        "AegisName": "ExplorationRover_T_Card",
+        "Name": "探索機器人卡片"
+    },
+    "695": {
+        "Item_id": "27017",
+        "AegisName": "Scr_MT_Robots_Card",
+        "Name": "廢鐵機器人卡片"
+    },
+    "696": {
+        "Item_id": "27018",
+        "AegisName": "GC109_Card",
+        "Name": "GC109卡片"
+    },
+    "697": {
+        "Item_id": "27019",
+        "AegisName": "DR815_Card",
+        "Name": "DR815卡片"
+    },
+    "698": {
+        "Item_id": "27020",
+        "AegisName": "T_W_O_Card",
+        "Name": "T W O卡片"
+    },
+    "699": {
+        "Item_id": "27025",
+        "AegisName": "Lich_Lord_Card",
+        "Name": "亡者君主卡片"
+    },
+    "700": {
+        "Item_id": "27026",
+        "AegisName": "Fire_Condor_Card",
+        "Name": "火焰禿鷹卡片"
+    },
+    "701": {
+        "Item_id": "27027",
+        "AegisName": "Fire_Sand_Man_Card",
+        "Name": "火焰泥人卡片"
+    },
+    "702": {
+        "Item_id": "27028",
+        "AegisName": "Fire_Frilldora_Card",
+        "Name": "火焰傘蜥卡片"
+    },
+    "703": {
+        "Item_id": "27029",
+        "AegisName": "Fire_Golem_Card",
+        "Name": "火焰巨石怪卡片"
+    },
+    "704": {
+        "Item_id": "27030",
+        "AegisName": "Fulbuk_Card",
+        "Name": "火蟻卡片"
+    },
+    "705": {
+        "Item_id": "27031",
+        "AegisName": "Labyrinth_Bapho_Card",
+        "Name": "迷宮巴風特卡片"
+    },
+    "706": {
+        "Item_id": "27032",
+        "AegisName": "Labyrinth_Dra_Card",
+        "Name": "迷宮德古拉男爵卡片"
+    },
+    "707": {
+        "Item_id": "27081",
+        "AegisName": "AngerMoonlight_Card",
+        "Name": "憤怒月夜貓卡片"
+    },
+    "708": {
+        "Item_id": "27082",
+        "AegisName": "AngerNineTail_Card",
+        "Name": "憤怒九尾狐卡片"
+    },
+    "709": {
+        "Item_id": "27083",
+        "AegisName": "BitterBonGun_Card",
+        "Name": "憤懣妖道卡片"
+    },
+    "710": {
+        "Item_id": "27084",
+        "AegisName": "BitterSohee_Card",
+        "Name": "憤懣鬼女卡片"
+    },
+    "711": {
+        "Item_id": "27085",
+        "AegisName": "BitterMunak_Card",
+        "Name": "憤懣殭屍卡片"
+    },
+    "712": {
+        "Item_id": "27086",
+        "AegisName": "BitterArcherSk_Card",
+        "Name": "憤懣邪骸弓箭手卡片"
+    },
+    "713": {
+        "Item_id": "27087",
+        "AegisName": "WizardOfVeritas_Card",
+        "Name": "真理超魔導師卡片"
+    },
+    "714": {
+        "Item_id": "27088",
+        "AegisName": "FuryHero_Card",
+        "Name": "狂熱英雄卡片"
+    },
+    "715": {
+        "Item_id": "27089",
+        "AegisName": "T_W_O_Card_J",
+        "Name": "T_W_O卡片(JRO)"
+    },
+    "716": {
+        "Item_id": "27092",
+        "AegisName": "Charleston_Card_J",
+        "Name": "Charleston3 Card"
+    },
+    "717": {
+        "Item_id": "27101",
+        "AegisName": "SweetNightM_Card",
+        "Name": "幻影夢魘卡片"
+    },
+    "718": {
+        "Item_id": "27102",
+        "AegisName": "MattDrainliar_Card",
+        "Name": "幻影紅蝙蝠卡片"
+    },
+    "719": {
+        "Item_id": "27103",
+        "AegisName": "LivingDead_Card",
+        "Name": "活死人卡片"
+    },
+    "720": {
+        "Item_id": "27104",
+        "AegisName": "Ill_Dracula_Card",
+        "Name": "憤怒德古拉伯爵卡片"
+    },
+    "721": {
+        "Item_id": "27105",
+        "AegisName": "Bomi_Card",
+        "Name": "波蜜卡片"
+    },
+    "722": {
+        "Item_id": "27106",
+        "AegisName": "Grand_Pere_Card",
+        "Name": "覺醒貝爾卡片"
+    },
+    "723": {
+        "Item_id": "27107",
+        "AegisName": "PlayingPere_Card",
+        "Name": "演奏貝爾卡片"
+    },
+    "724": {
+        "Item_id": "27108",
+        "AegisName": "SingingPere_Card",
+        "Name": "演唱貝爾卡片"
+    },
+    "725": {
+        "Item_id": "27109",
+        "AegisName": "JitterbugCard",
+        "Name": "吉特巴卡片"
+    },
+    "726": {
+        "Item_id": "27110",
+        "AegisName": "AngerGazeti_Card",
+        "Name": "Furious Gazeti Card"
+    },
+    "727": {
+        "Item_id": "27111",
+        "AegisName": "AngerSnowier_Card",
+        "Name": "Furious Snowier Card"
+    },
+    "728": {
+        "Item_id": "27112",
+        "AegisName": "AngerIceTitan_Card",
+        "Name": "Furious Ice Titan Card"
+    },
+    "729": {
+        "Item_id": "27113",
+        "AegisName": "AwakenKtullanux_Card",
+        "Name": "Awaken Ktullanux Card"
+    },
+    "730": {
+        "Item_id": "27114",
+        "AegisName": "OminousSolider_Card",
+        "Name": "Ominous Solider Card"
+    },
+    "731": {
+        "Item_id": "27115",
+        "AegisName": "OminousPermeter_Card",
+        "Name": "Ominous Permeter Card"
+    },
+    "732": {
+        "Item_id": "27116",
+        "AegisName": "OminousHeater_Card",
+        "Name": "Ominous Heater Card"
+    },
+    "733": {
+        "Item_id": "27117",
+        "AegisName": "OminousAssulter_Card",
+        "Name": "Ominous Assaulter Card"
+    },
+    "734": {
+        "Item_id": "27118",
+        "AegisName": "OminousFreezer_Card",
+        "Name": "Ominous Freezer Card"
+    },
+    "735": {
+        "Item_id": "27119",
+        "AegisName": "OminousTurtleG_Card",
+        "Name": "Ominous Turtle General Card"
+    },
+    "736": {
+        "Item_id": "27120",
+        "AegisName": "Iara_Card",
+        "Name": "亞拉卡片"
+    },
+    "737": {
+        "Item_id": "27121",
+        "AegisName": "Piranha_Card",
+        "Name": "食人魚卡片"
+    },
+    "738": {
+        "Item_id": "27122",
+        "AegisName": "Curupira_Card",
+        "Name": "小綠人卡片"
+    },
+    "739": {
+        "Item_id": "27123",
+        "AegisName": "Toucan_Card",
+        "Name": "巨嘴鳥卡片"
+    },
+    "740": {
+        "Item_id": "27124",
+        "AegisName": "Jaguar_Card",
+        "Name": "美洲虎卡片"
+    },
+    "741": {
+        "Item_id": "27125",
+        "AegisName": "Headless_Mule_Card",
+        "Name": "無頭騾卡片"
+    },
+    "742": {
+        "Item_id": "27126",
+        "AegisName": "Boitata_Card",
+        "Name": "波伊塔塔卡片"
+    },
+    "743": {
+        "Item_id": "27157",
+        "AegisName": "Wood_Goblin_Card",
+        "Name": "叢林哥布靈卡片"
+    },
+    "744": {
+        "Item_id": "27158",
+        "AegisName": "Les_Card",
+        "Name": "雷斯卡片"
+    },
+    "745": {
+        "Item_id": "27159",
+        "AegisName": "Uzhas_Card",
+        "Name": "叢林女巫卡片"
+    },
+    "746": {
+        "Item_id": "27160",
+        "AegisName": "Vavayaga_Card",
+        "Name": "芭芭亞卡卡片"
+    },
+    "747": {
+        "Item_id": "27161",
+        "AegisName": "Mavka_Card",
+        "Name": "森林妖精卡片"
+    },
+    "748": {
+        "Item_id": "27162",
+        "AegisName": "Gopinich_Card",
+        "Name": "青冠龍卡片"
+    },
+    "749": {
+        "Item_id": "27163",
+        "AegisName": "Faceworm_Card",
+        "Name": "驚骸森靈卡片"
+    },
+    "750": {
+        "Item_id": "27164",
+        "AegisName": "Faceworm_Q_Card",
+        "Name": "驚骸森靈皇后卡片"
+    },
+    "751": {
+        "Item_id": "27165",
+        "AegisName": "Faceworm_D_Card",
+        "Name": "黑暗驚骸森靈卡片"
+    },
+    "752": {
+        "Item_id": "27166",
+        "AegisName": "Faceworm_Egg_Card",
+        "Name": "驚骸森靈卵卡片"
+    },
+    "753": {
+        "Item_id": "27167",
+        "AegisName": "Faceworm_L_Card",
+        "Name": "驚骸森靈幼蟲卡片"
+    },
+    "754": {
+        "Item_id": "27168",
+        "AegisName": "Irene_Elder_Card",
+        "Name": "艾琳大長老卡片"
+    },
+    "755": {
+        "Item_id": "27169",
+        "AegisName": "Payon_Soldier_Card",
+        "Name": "斐揚警衛卡片"
+    },
+    "756": {
+        "Item_id": "27170",
+        "AegisName": "Cowraiders1_Card",
+        "Name": "散彈鎗草寇卡片"
+    },
+    "757": {
+        "Item_id": "27171",
+        "AegisName": "Cowraiders2_Card",
+        "Name": "左輪手槍草寇卡片"
+    },
+    "758": {
+        "Item_id": "27172",
+        "AegisName": "Cowraiders3_Card",
+        "Name": "彎刀草寇卡片"
+    },
+    "759": {
+        "Item_id": "27173",
+        "AegisName": "E_Cowraiders1_Card",
+        "Name": "菁英散彈鎗草寇卡片"
+    },
+    "760": {
+        "Item_id": "27174",
+        "AegisName": "E_Cowraiders2_Card",
+        "Name": "菁英左輪手槍草寇卡片"
+    },
+    "761": {
+        "Item_id": "27175",
+        "AegisName": "E_Cowraiders3_Card",
+        "Name": "菁英彎刀草寇卡片"
+    },
+    "762": {
+        "Item_id": "27176",
+        "AegisName": "Rr_Cramp_Card",
+        "Name": "溝鼠卡片"
+    },
+    "763": {
+        "Item_id": "27177",
+        "AegisName": "Rr_Arclouse_Card",
+        "Name": "沼澤卷甲蟲卡片"
+    },
+    "764": {
+        "Item_id": "27178",
+        "AegisName": "Gaster_Card",
+        "Name": "瓦斯特卡片"
+    },
+    "765": {
+        "Item_id": "27179",
+        "AegisName": "Coyote_Card",
+        "Name": "郊狼卡片"
+    },
+    "766": {
+        "Item_id": "27180",
+        "AegisName": "Mechaspider_Card",
+        "Name": "蜘蛛戰車卡片"
+    },
+    "767": {
+        "Item_id": "27181",
+        "AegisName": "AirShip_Raid_Card",
+        "Name": "飛空艇入侵軍團卡片"
+    },
+    "768": {
+        "Item_id": "27182",
+        "AegisName": "Felock_Card",
+        "Name": "船長裴陸卡片"
+    },
+    "769": {
+        "Item_id": "27183",
+        "AegisName": "Gigantes_Card",
+        "Name": "基勘特斯卡片"
+    },
+    "770": {
+        "Item_id": "27184",
+        "AegisName": "Knight_Sakray_Card",
+        "Name": "騎士薩克萊卡片"
+    },
+    "771": {
+        "Item_id": "27191",
+        "AegisName": "Gaster_Card_J",
+        "Name": "瓦斯魔卡片"
+    },
+    "772": {
+        "Item_id": "27196",
+        "AegisName": "S_Nihil_Card",
+        "Name": "尼希爾·米及利亞·海涅卡片"
+    },
+    "773": {
+        "Item_id": "27197",
+        "AegisName": "S_Agnes_Card",
+        "Name": "艾格尼絲·雷根斯伯格卡片"
+    },
+    "774": {
+        "Item_id": "27198",
+        "AegisName": "S_Jurgen_Card",
+        "Name": "于爾根·維格納卡片"
+    },
+    "775": {
+        "Item_id": "27199",
+        "AegisName": "S_Spica_Card",
+        "Name": "絲碧卡·內里烏斯卡片"
+    },
+    "776": {
+        "Item_id": "27200",
+        "AegisName": "Nihil_Card",
+        "Name": "尼希爾名片"
+    },
+    "777": {
+        "Item_id": "27201",
+        "AegisName": "Agnes_Card",
+        "Name": "艾格尼絲名片"
+    },
+    "778": {
+        "Item_id": "27202",
+        "AegisName": "Jurgen_Card",
+        "Name": "于爾根名片"
+    },
+    "779": {
+        "Item_id": "27203",
+        "AegisName": "Spica_Card",
+        "Name": "絲碧卡名片"
+    },
+    "780": {
+        "Item_id": "27209",
+        "AegisName": "SLD_Q_Scaraba_Card",
+        "Name": "封印的女王甲蟲卡片"
+    },
+    "781": {
+        "Item_id": "27210",
+        "AegisName": "SLD_Thanatos_Card",
+        "Name": "封印的魔劍士 達納托斯的記憶卡片"
+    },
+    "782": {
+        "Item_id": "27211",
+        "AegisName": "SLD_Baphomet_Card",
+        "Name": "封印的巴風特卡片"
+    },
+    "783": {
+        "Item_id": "27212",
+        "AegisName": "SLD_Maya_Card",
+        "Name": "封印的蟻后卡片"
+    },
+    "784": {
+        "Item_id": "27213",
+        "AegisName": "SLD_Clown_Card",
+        "Name": "封印的闇●搞笑藝人 雅歐帕奇爾卡片"
+    },
+    "785": {
+        "Item_id": "27214",
+        "AegisName": "SLD_Professor_Card",
+        "Name": "封印的闇●智者 西里亞卡片"
+    },
+    "786": {
+        "Item_id": "27215",
+        "AegisName": "SLD_Champion_Card",
+        "Name": "封印的闇●武術宗師 陳理歐卡片"
+    },
+    "787": {
+        "Item_id": "27216",
+        "AegisName": "SLD_Creator_Card",
+        "Name": "封印的闇●創造者 普拉梅姆卡片"
+    },
+    "788": {
+        "Item_id": "27217",
+        "AegisName": "SLD_Stalker_Card",
+        "Name": "封印的闇●神行太保 科迪卡片"
+    },
+    "789": {
+        "Item_id": "27218",
+        "AegisName": "SLD_Paladin_Card",
+        "Name": "封印的闇●聖殿十字軍 蘭達卡片"
+    },
+    "790": {
+        "Item_id": "27219",
+        "AegisName": "SLD_Gypsy_Card",
+        "Name": "封印的闇●冷艷舞姬 特蘭提尼卡片"
+    },
+    "791": {
+        "Item_id": "27220",
+        "AegisName": "SLD_Daehyon_Card",
+        "Name": "封印的將軍大賢卡片"
+    },
+    "792": {
+        "Item_id": "27221",
+        "AegisName": "SLD_Gioia_Card",
+        "Name": "封印的喬伊亞卡片"
+    },
+    "793": {
+        "Item_id": "27222",
+        "AegisName": "SLD_Pyuriel_Card",
+        "Name": "封印的淘汰者傅立葉卡片"
+    },
+    "794": {
+        "Item_id": "27224",
+        "AegisName": "SLD_Kades_Card",
+        "Name": "封印的守護者卡德斯卡片"
+    },
+    "795": {
+        "Item_id": "27225",
+        "AegisName": "SLD_Timeholder_Card",
+        "Name": "封印的時間支配者卡片"
+    },
+    "796": {
+        "Item_id": "27228",
+        "AegisName": "Big_Eggring_Card_J",
+        "Name": "Big Eggring Card"
+    },
+    "797": {
+        "Item_id": "27237",
+        "AegisName": "Faceworm_Q_Card_J",
+        "Name": "人面蟲皇后卡片(JRO)"
+    },
+    "798": {
+        "Item_id": "27247",
+        "AegisName": "Grand_Pere_Card_J",
+        "Name": "覺醒的貝爾卡片(JRO)"
+    },
+    "799": {
+        "Item_id": "27248",
+        "AegisName": "Sarah_Card_J",
+        "Name": "莎拉的幻影卡片(JRO)"
+    },
+    "800": {
+        "Item_id": "27249",
+        "AegisName": "Archi_Card",
+        "Name": "雅樂西卡片"
+    },
+    "801": {
+        "Item_id": "27250",
+        "AegisName": "Dio_Anemos_Card",
+        "Name": "狄歐．艾瑞默司卡片"
+    },
+    "802": {
+        "Item_id": "27251",
+        "AegisName": "Geffen_Gang_Card",
+        "Name": "吉芬流氓卡片"
+    },
+    "803": {
+        "Item_id": "27252",
+        "AegisName": "Geffen_Thug_Card",
+        "Name": "吉芬地痞卡片"
+    },
+    "804": {
+        "Item_id": "27253",
+        "AegisName": "Geffen_Thief_Card",
+        "Name": "吉芬小偷卡片"
+    },
+    "805": {
+        "Item_id": "27254",
+        "AegisName": "Pa_Monk_Card",
+        "Name": "沛蒙卡"
+    },
+    "806": {
+        "Item_id": "27255",
+        "AegisName": "Ordre_Card",
+        "Name": "奧樂德卡片"
+    },
+    "807": {
+        "Item_id": "27256",
+        "AegisName": "Blut_Hase_Card",
+        "Name": "布魯德哈戴卡片"
+    },
+    "808": {
+        "Item_id": "27257",
+        "AegisName": "Kuro_Akuma_Card",
+        "Name": "庫羅雅庫瑪卡片"
+    },
+    "809": {
+        "Item_id": "27258",
+        "AegisName": "Hyper_Death_Card",
+        "Name": "伊佛德斯卡片"
+    },
+    "810": {
+        "Item_id": "27259",
+        "AegisName": "Rechenier_Card",
+        "Name": "萊采尼芮卡片"
+    },
+    "811": {
+        "Item_id": "27260",
+        "AegisName": "Odorico_Card",
+        "Name": "歐托莉柯卡片"
+    },
+    "812": {
+        "Item_id": "27261",
+        "AegisName": "Jew_Card",
+        "Name": "朱朱卡片"
+    },
+    "813": {
+        "Item_id": "27262",
+        "AegisName": "Dy_Card",
+        "Name": "狄瓦伊卡片"
+    },
+    "814": {
+        "Item_id": "27263",
+        "AegisName": "Fei_Kanabian_Card",
+        "Name": "培坎納比恩卡片"
+    },
+    "815": {
+        "Item_id": "27264",
+        "AegisName": "Evil_Shadow_Card",
+        "Name": "魔神影子卡片"
+    },
+    "816": {
+        "Item_id": "27265",
+        "AegisName": "Evil_Fanatics_Card",
+        "Name": "魔神追隨者卡片"
+    },
+    "817": {
+        "Item_id": "27321",
+        "AegisName": "DespairGodMorocc_Card",
+        "Name": "絕望之神夢羅克卡片"
+    },
+    "818": {
+        "Item_id": "27322",
+        "AegisName": "Ahat_Card",
+        "Name": "魔神的門徒阿哈特卡片"
+    },
+    "819": {
+        "Item_id": "27323",
+        "AegisName": "Shnaim_Card",
+        "Name": "魔神的門徒許乃任卡片"
+    },
+    "820": {
+        "Item_id": "27324",
+        "AegisName": "Brinaranea_Card",
+        "Name": "巴利納拉雷亞卡片"
+    },
+    "821": {
+        "Item_id": "27325",
+        "AegisName": "Muspellskoll_Card",
+        "Name": "穆希貝斯寇卡片"
+    },
+    "822": {
+        "Item_id": "27326",
+        "AegisName": "MinionOfMorocc_Card",
+        "Name": "夢羅克的部下卡片"
+    },
+    "823": {
+        "Item_id": "27327",
+        "AegisName": "ReaperAnkou_Card",
+        "Name": "死神安庫卡片"
+    },
+    "824": {
+        "Item_id": "27328",
+        "AegisName": "LivingDeath_Card",
+        "Name": "墮落的生命卡片"
+    },
+    "825": {
+        "Item_id": "27329",
+        "AegisName": "Schmidt_Card",
+        "Name": "Curse Eater King Card"
+    },
+    "826": {
+        "Item_id": "27330",
+        "AegisName": "Kronecker_Card",
+        "Name": "克羅內克卡片"
+    },
+    "827": {
+        "Item_id": "27331",
+        "AegisName": "S_Kronecker_Card",
+        "Name": "克羅內克·格蘭茲·海涅卡片"
+    },
+    "828": {
+        "Item_id": "27332",
+        "AegisName": "Skia_Card",
+        "Name": "絲琪雅卡片"
+    },
+    "829": {
+        "Item_id": "27333",
+        "AegisName": "S_Skia_Card",
+        "Name": "絲琪雅·內里烏斯卡片"
+    }
+}
