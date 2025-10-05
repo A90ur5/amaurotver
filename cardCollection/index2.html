@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>Amaurot 卡片收藏</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    #filterBox { margin-bottom: 10px; padding: 8px; width: 300px; }
+    #controls { margin-bottom: 10px; }
+    #controls button { margin-right: 5px; padding: 6px 10px; }
+    #stats { margin-bottom: 20px; font-weight: bold; }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 150px);
+      gap: 15px;
+    }
+    .card {
+      text-align: center;
+      border: 1px solid #ccc;
+      padding: 8px;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+    .card img {
+      width: 100px;
+      height: 140px;
+      filter: grayscale(100%);
+      transition: filter 0.3s;
+    }
+    .card-name {
+      margin-top: 8px;
+      font-size: 14px;
+      color: gray;
+    }
+    .card.owned img {
+      filter: none;
+    }
+    .card.owned .card-name {
+      color: black;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Amaurot 卡片收藏</h1>
+  <input id="filterBox" type="text" placeholder="輸入名稱過濾...">
+  <div id="controls">
+    <button id="showOwned">只顯示已取得</button>
+    <button id="showUnowned">只顯示未取得</button>
+    <button id="showAll">顯示全部</button>
+  </div>
+  <div id="stats"></div>
+  <div id="cardContainer" class="card-grid"></div>
+
+  <script>
+    async function loadCards() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const cardsParam = urlParams.get("cards");
+      const bitmapParam = urlParams.get("bitmap");
+
+      if (cardsParam && bitmapParam) {
+        alert("cards 與 bitmap 參數不能同時存在！");
+        return;
+      }
+
+      let data;
+      let ownedChecker;
+
+      if (bitmapParam) {
+        const response = await fetch("card_db2.json");
+        data = await response.json();
+
+        ownedChecker = (uid) => bitmapParam[uid] === "1"; // uid 為 string index
+      } else {
+        const response = await fetch("card_db.json");
+        data = await response.json();
+
+        const owned = (cardsParam || "").split("x").filter(Boolean);
+        ownedChecker = (id) => owned.includes(id);
+      }
+
+      const container = document.getElementById("cardContainer");
+      const statsDiv = document.getElementById("stats");
+      const cards = [];
+
+      for (const key in data) {
+        const card = data[key];
+        const id = bitmapParam ? card.Item_id : key; // 決定顯示用的 Item ID
+
+        const div = document.createElement("div");
+        div.className = "card";
+        if (ownedChecker(bitmapParam ? key : id)) div.classList.add("owned");
+
+        div.innerHTML = `
+          <a href="https://ro.dvg.cn/itemsinfo.php?id=${id}" target="_blank">
+            <img src="images/${id}.png" alt="${card.Name}" onerror="this.onerror=null;this.src='images/404.png';">
+          </a>
+          <div class="card-name">${card.Name} #${id} (${card.AegisName})</div>
+        `;
+        container.appendChild(div);
+        cards.push(div);
+      }
+
+      function updateStats() {
+        const total = cards.length;
+        const ownedCount = cards.filter(c => c.classList.contains("owned")).length;
+        const unownedCount = total - ownedCount;
+        statsDiv.textContent = `已取得: ${ownedCount} | 未取得: ${unownedCount} | 總數: ${total}`;
+      }
+
+      function showCards(filter) {
+        for (const cardDiv of cards) {
+          if (filter === "owned") {
+            cardDiv.style.display = cardDiv.classList.contains("owned") ? "" : "none";
+          } else if (filter === "unowned") {
+            cardDiv.style.display = cardDiv.classList.contains("owned") ? "none" : "";
+          } else {
+            cardDiv.style.display = "";
+          }
+        }
+      }
+
+      document.getElementById("showOwned").onclick = () => showCards("owned");
+      document.getElementById("showUnowned").onclick = () => showCards("unowned");
+      document.getElementById("showAll").onclick = () => showCards("all");
+
+      updateStats();
+    }
+
+    loadCards();
+  </script>
+</body>
+</html>
