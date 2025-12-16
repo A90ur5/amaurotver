@@ -146,7 +146,15 @@
           }
         }
       }
-
+      // 過濾功能
+      const filterBox = document.getElementById("filterBox");
+      filterBox.addEventListener("input", () => {
+        const keyword = filterBox.value.toLowerCase();
+        for (const cardDiv of cards) {
+          const text = cardDiv.innerText.toLowerCase();
+          cardDiv.style.display = text.includes(keyword) ? "" : "none";
+        }
+      });
       document.getElementById("showOwned").onclick = () => showCards("owned");
       document.getElementById("showUnowned").onclick = () => showCards("unowned");
       document.getElementById("showAll").onclick = () => showCards("all");
